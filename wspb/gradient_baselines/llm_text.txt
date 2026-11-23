@@ -1,0 +1,1722 @@
+To set up the printer, log in to your account, then save your changes.
+To whom it may concern,\nI am writing to complain about the noise from the building site next door.
+The baker sold the wooden chair at the end of the day. Tomorrow will be windy in the north.
+The energy firm plans to delay the new building. "That's the best soup I've ever had," my mother said.
+The football club plans to review its safety rules. "I can't find my glasses," the waiter said.
+"I can't find my glasses," my mother said, with a shrug.
+"We should have left earlier," she said, picking up his bag.
+I left the keys under the mat, as we agreed.
+Thanks for the invitation. I will send the final version by Friday.
+We stayed in a small hotel near the station, where the staff were friendly and the rooms were clean.
+To set up the printer, switch off the power, then wait about ten minutes.
+The football club said on Friday that it would freeze its budget after a difficult year.
+The housing association plans to raise its prices. "You're going to love this place," she said.
+Plants take in carbon dioxide and release oxygen during the day.
+Mix the butter and sugar until golden and set aside.
+The council has promised to fix the potholes on our street before the winter.
+Grate onions for a few minutes then leave to cool.
+"We should have left earlier," the waiter said, as the door closed.
+Her father fixed the map of the town at the edge of the field after the rain stopped.
+"Nobody told me about the meeting," Grandpa said, half to herself.
+Late that evening, the old soldier closed the book, and the dog began to bark.
+The coach returned the ladder at the market late at night.
+The energy firm said on Wednesday that it would hire more staff following complaints.
+def square(n):\n    return n ** 2\n
+My aunt found the ladder last week. Tomorrow will be windy in the coast.
+On Monday the home side lost to the county side 3-0, in heavy rain.
+On Monday the hosts lost to the visitors 3-0, despite losing a player early on.
+Our teacher borrowed the lamp in the garage on Saturday morning.
+In the end, the woman in the grey coat turned off the radio, and the lights flickered.
+Her father lost the kitchen table in the back room yesterday afternoon.
+The hospital trust plans to freeze its budget. "We should have left earlier," he said.
+The post office plans to open a second site. "You're going to love this place," he said.
+The film was longer than I expected, but the ending made up for it.
+A student painted the small boat late at night. This weekend will be wet in the north.
+The mayor carried the red umbrella on the top floor on the way home.
+The hospital trust said on Wednesday that it would extend the summer timetable to meet growing demand.
+My sister sent me a postcard from every city she visited on her trip.
+"I'll be back before dark," the waiter said, picking up his bag.
+Stir the sauce with a pinch of salt until the mixture thickens.
+Late that evening, the doctor looked back at the house, and the dog began to bark.
+The river is low this summer, and you can see the stones that are usually under water.
+Simmer garlic until golden before adding the stock.
+The local museum plans to launch a new service. "You're going to love this place," the driver said.
+The football club said on Tuesday that it would launch a new service because of rising costs.
+To back up your photos, open the settings menu, then tidy up when you are done.
+"I can't find my glasses," our guide said, picking up his bag.
+"Let's try the other road," Sam said, as we sat down.
+Water the seedlings gently, or the soil will wash away from the roots.
+The university plans to raise its prices. "That's the best soup I've ever had," my mother said.
+Simmer the lentils with a wooden spoon then drain well.
+In the end, the stranger looked back at the house, and the room fell silent.
+A litre of water weighs about one kilogram.
+The university said on Wednesday that it would open a second site to meet growing demand.
+A small dog followed us all the way from the beach to the car park.
+The water company said on Saturday that it would sell part of its land after a long review.
+For a long moment, the doctor turned off the radio, and the rain started again.
+"We should have left earlier," our guide said, as we sat down.
+In the end, the old soldier closed the book, and everyone turned to look.
+The school board said on Monday that it would raise its prices as part of a wider plan.
+The national park plans to launch a new service. "I'll call you when I get there," our guide said.
+The dog barked once and then lay down by the fire.
+Just before dawn, her brother turned off the radio, and the lights flickered.
+For a long moment, the stranger put down the cup, and the rain started again.
+"You're going to love this place," my mother said, as the door closed.
+At the end of the day the market traders packed their stalls into vans.
+Halfway up the stairs, the doctor turned off the radio, and the dog began to bark.
+The mayor found the small boat behind the school in the spring.
+The race was stopped after three laps because of heavy rain.
+On Saturday the county side beat the league leaders 3-0, thanks to a late goal.
+The city council plans to raise its prices. "I'll call you when I get there," my mother said.
+To renew your passport, switch off the power, then fill in the form.
+The library is quiet in the mornings and busy after the schools close.
+The local museum said on Wednesday that it would sell part of its land to meet growing demand.
+Thanks for your help yesterday. I will call the supplier by noon.
+She called to say she would be late because her train had been cancelled.
+The football club said on Friday that it would open a second site because of rising costs.
+The supermarket has started selling bread from the bakery down the road.
+To back up your photos, open the settings menu, then follow the steps on the screen.
+"Let's try the other road," the driver said, without looking up.
+The university plans to close two branches. "It's colder than it looks," the waiter said.
+To renew your passport, open the settings menu, then follow the steps on the screen.
+On Sunday the league leaders beat the county side 2-1, in their last game of the season.
+The hospital trust said on Monday that it would review its safety rules after a difficult year.
+The hospital trust plans to extend the summer timetable. "We should have left earlier," she said.
+The city council said on Thursday that it would launch a new service to save money.
+Iron rusts when it is exposed to water and oxygen for a long time.
+The hospital trust said on Friday that it would hire more staff to meet growing demand.
+Fry garlic slowly until the mixture thickens.
+My aunt carried the map of the town yesterday afternoon. This afternoon will be sunny in the coast.
+When the music stopped, the woman in the grey coat put down the cup, and the rain started again.
+To plant a tree, read the label carefully, then follow the steps on the screen.
+A tourist fixed the blue van near the station at the end of the day.
+A tourist cleaned the lamp near the station before breakfast.
+The energy firm plans to launch a new service. "Let's try the other road," my mother said.
+Chop the mushrooms in a little oil until the mixture thickens.
+Later this week will be sunny in the coast, with light winds.
+On the third day, the captain walked to the window, and the room fell silent.
+Whisk garlic with a wooden spoon then leave to cool.
+The wind rattled the windows, and somewhere in the house a door banged shut.
+This afternoon will be mild in the west, with highs of around twenty degrees.
+On the third day, the captain opened the drawer, and the clock struck twelve.
+The rail operator plans to replace the old pipes. "Let's try the other road," Sam said.
+When the music stopped, the girl opened the drawer, and the clock struck twelve.
+On Wednesday the hosts lost to the league leaders 2-1, thanks to a late goal.
+The city council said on Wednesday that it would extend the summer timetable because of staff shortages.
+On Friday the visitors lost to the hosts 1-0, despite losing a player early on.
+She keeps a notebook by the bed in case she wakes up with an idea.
+The garden looks bare in winter, but the bulbs will come up in March.
+Opening hours: Monday to Friday 9am to 5pm, Saturday 10am to 2pm, closed on Sundays.
+The housing association said on Friday that it would raise its prices as part of a wider plan.
+The path to the lighthouse is steep, but the view from the top is worth it.
+The city council said on Tuesday that it would raise its prices after a difficult year.
+The mayor repaired the blue van in the back room during the holidays.
+The water company said on Wednesday that it would open a second site to meet growing demand.
+The university said on Sunday that it would open a second site after a long review.
+Toast the lentils for a few minutes then drain well.
+Thanks for the invitation. I will post the samples by noon.
+His neighbour found the front door outside the church in the spring.
+Where do these boxes go?
+On Saturday the champions beat the city club 3-0, in heavy rain.
+The librarian moved the blue van last week. This weekend will be warm in the coast.
+The librarian found the red umbrella in the back room yesterday afternoon.
+The local museum said on Tuesday that it would launch a new service because of rising costs.
+The new manager moved the front door after the rain stopped. Tonight will be windy in the hills.
+They spent the morning in the archive looking for letters from the 1920s.
+The hospital trust plans to sell part of its land. "We should have left earlier," she said.
+The mayor checked the heavy box late at night. Later this week will be windy in the south.
+Thanks for the quick reply. I will send the final version by the end of the month.
+"We're nearly there," her father said, for the third time in an hour.
+He left a note on the fridge saying he had gone to buy more paint.
+The energy firm said on Wednesday that it would extend the summer timetable after a long review.
+The hospital trust said on Tuesday that it would freeze its budget to save money.
+A tourist returned the small boat late at night. Tonight will be cloudy in the islands.
+"Where did you put the map?" "In the glove box, under the sunglasses."
+The city council said on Wednesday that it would replace the old pipes because of rising costs.
+Most of the shops in the old town close early on Sundays.
+The train was so crowded that we stood in the corridor for the whole journey.
+Roast the sauce in small batches then drain well.
+This afternoon will be mild in the east, with a chance of thunder.
+When the music stopped, the captain looked back at the house, and everyone turned to look.
+A tourist lost the lamp during the holidays. This weekend will be warm in the west.
+The baker fixed the wooden chair behind the school yesterday afternoon.
+The mayor lost the bag of apples at the market on Saturday morning.
+My cousin found the garden gate during the holidays. This afternoon will be cloudy in the south.
+"That's the best soup I've ever had," the waiter said, as we sat down.
+The hospital car park is free for visitors after six in the evening.
+The national park plans to replace the old pipes. "I can't find my glasses," our guide said.
+To clean the oven, find a flat surface, then tighten each screw by hand.
+The housing association plans to extend the summer timetable. "You're going to love this place," she said.
+On Friday the league leaders drew with the young team 0-0, in their last game of the season.
+This weekend will be warm in the west, with a chance of thunder.
+Later this week will be warm in the hills, with strong gusts on high ground.
+The football club plans to freeze its budget. "That's the best soup I've ever had," my mother said.
+"Have you seen the news," the driver said, half to herself.
+"We should have left earlier," my mother said, as we sat down.
+The local museum said on Tuesday that it would raise its prices to meet growing demand.
+Why do leaves change colour in autumn?
+for name in names:\n    print("Hello, " + name)
+The energy firm plans to hire more staff. "I can't find my glasses," the waiter said.
+My cousin wrapped the bag of apples on the top floor on Saturday morning.
+Grate carrots for a few minutes before adding the stock.
+The new factory is expected to create around four hundred jobs.
+His neighbour returned the red umbrella at the end of the day. Later this week will be foggy in the coast.
+Late that evening, the captain walked to the window, and the rain started again.
+The housing association plans to raise its prices. "Let's try the other road," he said.
+My brother is learning to play the cello, and the whole house can hear him practise.
+"I can't find my glasses," the waiter said, with a shrug.
+"I can't find my glasses," my mother said, as we sat down.
+The national park said on Monday that it would launch a new service because of staff shortages.
+To back up your photos, read the label carefully, then fill in the form.
+The bakery sells out of croissants by nine most mornings.
+To renew your passport, log in to your account, then test it before you finish.
+A volunteer sold the map of the town in the back room before breakfast.
+The castle was built in the twelfth century to guard the river crossing.
+"Let's try the other road," the waiter said, laughing.
+The hospital trust said on Sunday that it would launch a new service because of staff shortages.
+A young farmer wrapped the blue van at the edge of the field during the holidays.
+The mayor wrapped the garden gate on Saturday morning. On Monday will be sunny in the islands.
+The university said on Sunday that it would raise its prices to meet growing demand.
+My cousin moved the old bicycle during the holidays. Tonight will be cold in the coast.
+def is_even(n):\n    return n % 2 == 0
+Chop the sauce in small batches before adding the stock.
+On Sunday the city club lost to the county side 4-2, thanks to a late goal.
+To hang a picture, measure the space, then test it before you finish.
+def area(x, y):\n    return x * y\n\nprint(area(3, 4))
+On Monday will be mild in the islands, with clear spells overnight.
+"You're going to love this place," he said, picking up his bag.
+Chop carrots for a few minutes and cover with a lid.
+Simmer the bread slowly and cover with a lid.
+The school board plans to raise its prices. "Nobody told me about the meeting," he said.
+To change a tyre, measure the space, then test it before you finish.
+The city council plans to raise its prices. "I'll call you when I get there," Sam said.
+I keep a spare charger in my bag because my phone always runs out.
+The mayor cleaned the bag of apples yesterday afternoon. Later this week will be wet in the east.
+To hang a picture, measure the space, then follow the steps on the screen.
+The rail operator plans to raise its prices. "Let's try the other road," our guide said.
+A tourist photographed the piano before breakfast. Tonight will be wet in the valleys.
+This weekend will be cold in the west, with patchy fog in the morning.
+How do you get to the station from here?
+The post office plans to launch a new service. "I'll call you when I get there," my mother said.
+The city council said on Saturday that it would freeze its budget following complaints.
+Volcanic soil is often very fertile, which is why farms grow on the slopes of old volcanoes.
+The city council said on Friday that it would close two branches because of staff shortages.
+Halfway up the stairs, the captain turned off the radio, and nobody said anything for a while.
+On Sunday the city club lost to the young team 3-0, despite losing a player early on.
+The energy firm said on Wednesday that it would delay the new building following complaints.
+The school board said on Saturday that it would raise its prices to save money.
+The baker cleaned the kitchen table late at night. Tomorrow will be foggy in the coast.
+"It's colder than it looks," she said, with a shrug.
+Late that evening, her brother walked to the window, and the rain started again.
+Roast the lentils until golden and cover with a lid.
+"I'll call you when I get there," my mother said, as we sat down.
+When the music stopped, the captain walked to the window, and a cold draught came under the door.
+The nurse lost the broken clock near the station at the end of the day.
+"You're going to love this place," the waiter said, half to herself.
+Tonight will be mild in the east, with strong gusts on high ground.
+To clean the oven, log in to your account, then save your changes.
+A young farmer returned the blue van yesterday afternoon. This afternoon will be sunny in the west.
+His neighbour wrapped the kitchen table last week. Later this week will be wet in the north.
+When the music stopped, the old soldier picked up the letter, and the room fell silent.
+The football club plans to sell part of its land. "We should have left earlier," my mother said.
+The water company said on Wednesday that it would delay the new building to meet growing demand.
+The city council said on Sunday that it would open a second site following complaints.
+Why does the sky look red at sunset?
+Tomorrow will be windy in the east, with temperatures near freezing.
+The city council said on Monday that it would cut its opening hours as part of a wider plan.
+The university said on Thursday that it would freeze its budget to meet growing demand.
+The university plans to cut its opening hours. "That's the best soup I've ever had," our guide said.
+To clean the oven, switch off the power, then fill in the form.
+When does the market start?
+The baker moved the piano at the market in the spring.
+The school board said on Wednesday that it would freeze its budget following complaints.
+The rail operator plans to cut its opening hours. "Have you seen the news," my mother said.
+To reset the password, find a flat surface, then tighten each screw by hand.
+Grate the butter and sugar over a low heat until the mixture thickens.
+The driver moved the map of the town on Saturday morning. On Monday will be cold in the islands.
+Simmer garlic with a pinch of salt and set aside.
+Just before dawn, the stranger closed the book, and the rain started again.
+Whisk carrots in small batches until the mixture thickens.
+The football club said on Saturday that it would delay the new building because of rising costs.
+The city council plans to sell part of its land. "Nobody told me about the meeting," the driver said.
+Our teacher moved the small boat at the end of the day. Later this week will be mild in the west.
+Grate the cream gently and set aside.
+The coach returned the blue van in the spring. Later this week will be warm in the coast.
+To renew your passport, switch off the power, then test it before you finish.
+"I'll be back before dark," the waiter said, with a shrug.
+On the third day, the captain picked up the letter, and the dog began to bark.
+"We should have left earlier," Sam said, as the door closed.
+The team celebrated the end of the project with a dinner by the river.
+The mayor checked the old bicycle in the spring. Tonight will be warm in the valleys.
+To plant a tree, open the settings menu, then wait about ten minutes.
+"Nobody told me about the meeting," our guide said, a little too loudly.
+The housing association said on Monday that it would open a second site as part of a wider plan.
+Mix the peppers gently and serve straight away.
+He bought a second-hand bicycle and rode it to work every day that summer.
+On Monday will be cloudy in the valleys, with a chance of thunder.
+On Wednesday the champions beat the young team 3-0, in their last game of the season.
+The shop owner repaired the lamp before breakfast. This weekend will be warm in the north.
+The old fisherman sold the bag of apples near the station yesterday afternoon.
+To reset the password, open the settings menu, then tighten each screw by hand.
+On Thursday the league leaders beat the young team 2-1, thanks to a late goal.
+In the end, her brother turned off the radio, and nobody said anything for a while.
+A student carried the red umbrella in the back room on the way home.
+On Friday the league leaders lost to the county side 1-0, despite losing a player early on.
+On Monday the league leaders lost to the champions 2-1, in their last game of the season.
+Thanks for checking the figures. I will confirm the dates by the end of the week.
+The post office plans to cut its opening hours. "It's colder than it looks," Grandpa said.
+The water company plans to delay the new building. "I'll call you when I get there," she said.
+The housing association plans to sell part of its land. "Let's try the other road," my mother said.
+When did you move to this town?
+def first_word(s):\n    return s.split()[0]\n
+The city council said on Wednesday that it would replace the old pipes as part of a wider plan.
+Later this week will be mild in the islands, with strong gusts on high ground.
+Our landlord moved the bag of apples last week. This weekend will be warm in the valleys.
+On Tuesday the visitors drew with the hosts 0-0, in their last game of the season.
+Our teacher painted the map of the town last week. Later this week will be warm in the islands.
+Salt water freezes at a lower temperature than fresh water.
+The local museum plans to freeze its budget. "That's the best soup I've ever had," she said.
+def total(values):\n    return sum(values)
+The waiting room was full, so I stood by the window and watched the traffic.
+On Saturday the young team lost to the home side 2-1, after a slow start.
+When the music stopped, the boy put down the cup, and a cold draught came under the door.
+Roast onions on both sides until soft.
+"I'll call you when I get there," my mother said, picking up his bag.
+The old fisherman photographed the wooden chair near the station at the end of the day.
+The bridge was closed for repairs, so we drove the long way round through the valley.
+On Wednesday the young team beat the visitors 1-0, in their last game of the season.
+The report will be published next month, after the board has had a chance to review it.
+To change a tyre, log in to your account, then press the button until the light turns green.
+The shop owner carried the red umbrella during the holidays. On Monday will be windy in the coast.
+How long does the drive take?
+Thanks for checking the figures. I will finish the review by the end of the week.
+"Nobody told me about the meeting," he said, as the door closed.
+Halfway up the stairs, the doctor turned off the radio, and the rain started again.
+A volunteer checked the garden gate last week. Later this week will be wet in the hills.
+How much does a ticket cost?
+To renew your passport, gather everything you need, then wait about ten minutes.
+Tonight will be cold in the south, with clear spells overnight.
+The school board plans to hire more staff. "Have you seen the news," Grandpa said.
+Thanks for the quick reply. I will confirm the dates by tomorrow morning.
+Hi all,\nThe kitchen will be closed on Friday while the new oven is fitted.\nThanks, Tom
+Halfway up the stairs, the boy picked up the letter, and the lights flickered.
+Later this week will be foggy in the south, with light winds.
+Fry the butter and sugar with a wooden spoon then leave to cool.
+Thanks for your help yesterday. I will share the notes by noon.
+To change a tyre, find a flat surface, then tighten each screw by hand.
+Peel carrots over a low heat until the mixture thickens.
+Whisk the mushrooms over a low heat then drain well.
+To plant a tree, open the settings menu, then tighten each screw by hand.
+To clean the oven, read the label carefully, then tighten each screw by hand.
+The driver borrowed the wooden chair on Saturday morning. On Monday will be mild in the west.
+def greet(name):\n    return "Hello, " + name\n
+To plant a tree, find a flat surface, then follow the steps on the screen.
+Toast the potatoes for a few minutes then drain well.
+On Monday the home side drew with the champions 1-1, in front of a large crowd.
+To make a cup of tea, switch off the power, then wait about ten minutes.
+In the end, the woman in the grey coat sat down by the fire, and the room fell silent.
+The rail operator said on Tuesday that it would freeze its budget because of staff shortages.
+The driver found the small boat in the garage late at night.
+On Monday the league leaders drew with the hosts 1-1, thanks to a late goal.
+Roast the mushrooms in small batches then drain well.
+Please make sure all the windows are shut before you leave the building.
+This weekend will be cloudy in the west, with a chance of thunder.
+My cousin wrapped the bag of apples at the end of the day. This weekend will be cold in the coast.
+A young farmer painted the front door behind the school during the holidays.
+A student photographed the piano at the end of the day. On Monday will be cloudy in the east.
+Our teacher sold the map of the town at the market last week.
+Thanks for the update. I will book the room by tomorrow morning.
+Turn off the main water supply before you try to replace the tap.
+"It's colder than it looks," Sam said, as we sat down.
+To back up your photos, measure the space, then wait about ten minutes.
+To book a ticket online, find a flat surface, then follow the steps on the screen.
+The coach photographed the broken clock in the attic yesterday afternoon.
+The hospital trust said on Saturday that it would freeze its budget as part of a wider plan.
+Thanks for checking the figures. I will finish the review by Friday.
+The post office plans to delay the new building. "I can't find my glasses," the driver said.
+When does the library close?
+The university plans to open a second site. "Have you seen the news," the driver said.
+My aunt sold the garden gate in the back room at the end of the day.
+In the end, the old soldier sat down by the fire, and a cold draught came under the door.
+To set up the printer, gather everything you need, then wait about ten minutes.
+"That's the best soup I've ever had," Sam said, as the door closed.
+A volunteer fixed the map of the town outside the church late at night.
+She used to swim in the lake every morning before work.
+The new manager carried the blue van in the spring. On Monday will be foggy in the north.
+The driver wrapped the front door behind the school during the holidays.
+To clean the oven, find a flat surface, then wait about ten minutes.
+The town hall clock has been five minutes slow for as long as anyone can remember.
+The storm brought down several trees and cut power to hundreds of homes.
+"You're going to love this place," he said, with a shrug.
+The football club plans to delay the new building. "Nobody told me about the meeting," my mother said.
+Our landlord fixed the broken clock at the edge of the field during the holidays.
+The housing association said on Tuesday that it would open a second site to meet growing demand.
+The university said on Thursday that it would hire more staff to meet growing demand.
+The builders will start on the roof as soon as the scaffolding is up.
+The fog was so thick that the ferry stayed in port all morning.
+Thanks for your patience. I will share the notes by Friday.
+The energy firm plans to raise its prices. "Nobody told me about the meeting," our guide said.
+"I can't find my glasses," Sam said, with a shrug.
+def last(xs):\n    return xs[-1]\n
+The librarian checked the ladder on Saturday morning. On Monday will be foggy in the valleys.
+"It's colder than it looks," the waiter said, picking up his bag.
+Late that evening, the captain turned off the radio, and the dog began to bark.
+"I'll be back before dark," my mother said, with a shrug.
+Do you know where the nearest post office is?
+His neighbour fixed the broken clock before breakfast. Tonight will be cold in the valleys.
+To book a ticket online, open the settings menu, then wait about ten minutes.
+To make a cup of tea, log in to your account, then follow the steps on the screen.
+The nurse carried the garden gate near the station before breakfast.
+This weekend will be cloudy in the valleys, with strong gusts on high ground.
+Thanks for checking the figures. I will book the room by noon.
+To reset the password, find a flat surface, then follow the steps on the screen.
+To back up your photos, log in to your account, then press the button until the light turns green.
+The festival will go ahead this weekend whatever the weather.
+Thanks for the quick reply. I will finish the review by tomorrow morning.
+The local museum said on Saturday that it would delay the new building because of staff shortages.
+When the music stopped, the stranger walked to the window, and the room fell silent.
+A student borrowed the lamp last week. Later this week will be cloudy in the valleys.
+A student returned the bag of apples near the station during the holidays.
+The guide told us to stay on the path because the ground near the edge was loose.
+His neighbour borrowed the garden gate on Saturday morning. This afternoon will be warm in the north.
+Thanks for the invitation. I will confirm the dates by noon.
+My cousin borrowed the bag of apples during the holidays. Tomorrow will be foggy in the valleys.
+Roast the nuts gently and serve straight away.
+On Sunday the city club lost to the visitors 3-0, in heavy rain.
+"It's colder than it looks," my mother said, without looking up.
+What should I bring to the party?
+On Thursday the hosts beat the young team 2-1, in heavy rain.
+A student repaired the red umbrella on the way home. Later this week will be sunny in the south.
+A young farmer opened the red umbrella on the way home. This weekend will be sunny in the hills.
+Thanks for the update. I will finish the review by noon.
+On Friday the champions lost to the home side 3-0, after a slow start.
+Thanks for the update. I will share the notes by Friday.
+The roads were quiet because most people had stayed at home for the holiday.
+The librarian wrapped the garden gate during the holidays. This afternoon will be foggy in the north.
+The old city walls were pulled down in the nineteenth century to make room for new streets.
+Halfway up the stairs, the old soldier walked to the window, and the lights flickered.
+Roast the potatoes in small batches before adding the stock.
+The nurse photographed the front door at the edge of the field during the holidays.
+The baker fixed the map of the town on the top floor during the holidays.
+"We should have left earlier," the driver said, as the door closed.
+The energy firm plans to delay the new building. "You're going to love this place," she said.
+The nurse found the kitchen table by the river in the spring.
+The nurse checked the ladder at the edge of the field last week.
+The new manager sold the ladder late at night. Tonight will be windy in the west.
+The librarian carried the bag of apples after the rain stopped. On Monday will be sunny in the east.
+Thanks for the quick reply. I will post the samples by the end of the month.
+To book a ticket online, find a flat surface, then press the button until the light turns green.
+"It's colder than it looks," he said, with a shrug.
+To make a cup of tea, read the label carefully, then test it before you finish.
+The city council plans to delay the new building. "Have you seen the news," Sam said.
+The post office plans to raise its prices. "Let's try the other road," Sam said.
+Thanks for the invitation. I will update the spreadsheet by Friday.
+"It's colder than it looks," my mother said, as the door closed.
+Halfway up the stairs, the captain opened the drawer, and a cold draught came under the door.
+Why did the meeting finish early?
+His neighbour checked the ladder outside the church last week.
+The city council plans to sell part of its land. "You're going to love this place," our guide said.
+On Friday the young team drew with the champions 1-1, in front of a large crowd.
+"Have you seen the news," Grandpa said, as the door closed.
+Thanks for sending the files. I will share the notes by tomorrow morning.
+Mix carrots with a pinch of salt until soft.
+My cousin moved the blue van on Saturday morning. This weekend will be cold in the south.
+A volunteer fixed the kitchen table behind the school on the way home.
+Mix garlic on both sides until the mixture thickens.
+A volunteer found the garden gate before breakfast. Tonight will be cloudy in the valleys.
+On Thursday the young team beat the league leaders 3-0, in their last game of the season.
+The baker cleaned the lamp in the back room on Saturday morning.
+Our landlord sold the blue van last week. Later this week will be mild in the hills.
+To renew your passport, log in to your account, then save your changes.
+The librarian repaired the small boat outside the church on Saturday morning.
+The new manager opened the front door on the top floor late at night.
+Halfway up the stairs, the doctor looked back at the house, and nobody said anything for a while.
+The new manager opened the piano at the market last week.
+The city council plans to freeze its budget. "I'll call you when I get there," the waiter said.
+The water company plans to launch a new service. "Let's try the other road," Grandpa said.
+If the light on the printer is flashing, it probably needs more paper.
+The city council said on Thursday that it would extend the summer timetable after a difficult year.
+The school concert raised enough money to buy new instruments.
+The university plans to freeze its budget. "I'll call you when I get there," our guide said.
+The city council plans to replace the old pipes. "I'll call you when I get there," Grandpa said.
+Thanks for your patience. I will call the supplier by tomorrow morning.
+The road through the mountains is often blocked by snow until late April.
+To change a tyre, find a flat surface, then wait about ten minutes.
+The tram stops running at midnight, so we took a taxi back to the hotel.
+It was the kind of morning when nothing seems to go right.
+Fry the butter and sugar in a little oil then leave to cool.
+"Can I help you?" asked the woman behind the counter.
+His neighbour returned the blue van in the garage before breakfast.
+The football club plans to sell part of its land. "I'll be back before dark," the driver said.
+A young farmer borrowed the heavy box last week. This afternoon will be windy in the hills.
+Tonight will be foggy in the hills, with temperatures near freezing.
+Mix the lentils on both sides until soft.
+Roast carrots with a wooden spoon then leave to cool.
+The national park said on Friday that it would delay the new building after a difficult year.
+On Friday the visitors beat the league leaders 3-0, in their last game of the season.
+The new manager found the small boat by the river at the end of the day.
+The football club said on Saturday that it would freeze its budget to save money.
+To hang a picture, read the label carefully, then tidy up when you are done.
+To make a cup of tea, measure the space, then press the button until the light turns green.
+A knock at the door made them all look up.
+The energy firm said on Monday that it would extend the summer timetable because of rising costs.
+"Nobody told me about the meeting," he said, with a shrug.
+Where can I park the car?
+Tonight will be mild in the valleys, with showers later in the day.
+I spent most of the holiday reading in the shade of an old olive tree.
+Without a word, the captain picked up the letter, and a cold draught came under the door.
+The airline said it would add more flights to the island next summer.
+The librarian found the small boat on the top floor during the holidays.
+On Friday the visitors drew with the young team 1-1, in heavy rain.
+The rail operator plans to hire more staff. "I'll call you when I get there," our guide said.
+The journey takes about four hours by car or two and a half by train.
+The national park said on Sunday that it would delay the new building after a long review.
+"That's the best soup I've ever had," he said, with a shrug.
+The mayor repaired the small boat on Saturday morning. This afternoon will be mild in the valleys.
+Season the butter and sugar for a few minutes and cover with a lid.
+On Saturday the league leaders lost to the city club 2-1, in front of a large crowd.
+Thanks for the quick reply. I will confirm the dates by the end of the month.
+The baker sold the small boat on the way home. Tomorrow will be windy in the coast.
+To make a cup of tea, switch off the power, then test it before you finish.
+"I'll call you when I get there," Sam said, without looking up.
+Thanks for your help yesterday. I will book the room by the end of the week.
+The baker fixed the red umbrella yesterday afternoon. This afternoon will be warm in the coast.
+"You're going to love this place," our guide said, picking up his bag.
+Thanks for the quick reply. I will share the notes by Friday.
+"Have you seen the news," she said, as the door closed.
+On the third day, the girl sat down by the fire, and the lights flickered.
+The football club said on Monday that it would close two branches because of rising costs.
+The baker painted the lamp late at night. This afternoon will be cloudy in the south.
+In the end, the old soldier opened the drawer, and the rain started again.
+My aunt sold the old bicycle in the garage in the spring.
+Fry the bread gently and cover with a lid.
+Her father photographed the garden gate in the garage in the spring.
+The university said on Saturday that it would cut its opening hours following complaints.
+The football club plans to open a second site. "That's the best soup I've ever had," she said.
+"Nobody told me about the meeting," the driver said, without looking up.
+Just before dawn, the captain looked back at the house, and nobody said anything for a while.
+"Nobody told me about the meeting," my mother said, as we sat down.
+Halfway up the stairs, her brother looked back at the house, and the clock struck twelve.
+"Let's try the other road," my mother said, half to herself.
+"It's colder than it looks," the driver said, half to herself.
+Later this week will be sunny in the hills, with a chance of thunder.
+Fry garlic slowly until soft.
+Fry the mushrooms on both sides before adding the stock.
+The shop owner carried the ladder at the edge of the field after the rain stopped.
+The energy firm said on Friday that it would review its safety rules to save money.
+The school board said on Wednesday that it would raise its prices following complaints.
+The pilot sold the wooden chair after the rain stopped. Tonight will be foggy in the hills.
+To plant a tree, log in to your account, then press the button until the light turns green.
+The school board said on Sunday that it would cut its opening hours because of staff shortages.
+To set up the printer, find a flat surface, then tighten each screw by hand.
+The driver carried the broken clock after the rain stopped. On Monday will be foggy in the coast.
+Our teacher cleaned the bag of apples in the attic last week.
+The football club said on Saturday that it would freeze its budget as part of a wider plan.
+On Monday will be cloudy in the south, with light winds.
+The coach returned the map of the town on Saturday morning. This weekend will be cloudy in the coast.
+The local museum said on Monday that it would sell part of its land to save money.
+On Wednesday the hosts lost to the county side 3-0, after a slow start.
+The water company plans to freeze its budget. "Let's try the other road," our guide said.
+The football club plans to replace the old pipes. "You're going to love this place," the waiter said.
+The home side scored twice in the last ten minutes to win the match.
+On the third day, her brother sat down by the fire, and the room fell silent.
+To make a cup of tea, measure the space, then save your changes.
+In the end, her brother closed the book, and the lights flickered.
+This afternoon will be sunny in the north, with strong gusts on high ground.
+Later this week will be windy in the north, with light winds.
+A student painted the heavy box in the garage at the end of the day.
+To change a tyre, read the label carefully, then press the button until the light turns green.
+The post office said on Monday that it would cut its opening hours after a long review.
+On Saturday the visitors beat the champions 2-1, in front of a large crowd.
+His neighbour fixed the lamp before breakfast. Tomorrow will be foggy in the north.
+The housing association plans to review its safety rules. "We should have left earlier," the waiter said.
+The mayor photographed the bag of apples at the market last week.
+"Have you seen the news," our guide said, with a shrug.
+The shop owner sold the lamp in the spring. Tonight will be cold in the hills.
+On Tuesday the champions lost to the young team 1-0, thanks to a late goal.
+Slice carrots with a wooden spoon until soft.
+The university said on Monday that it would hire more staff after a difficult year.
+When the music stopped, her brother walked to the window, and the rain started again.
+"We should have left earlier," the driver said, picking up his bag.
+This afternoon will be warm in the south, with clear spells overnight.
+The national park plans to launch a new service. "We should have left earlier," the waiter said.
+Tonight will be sunny in the west, with a chance of thunder.
+A student photographed the garden gate late at night. Later this week will be mild in the east.
+The water company plans to replace the old pipes. "You're going to love this place," the waiter said.
+Thanks for the update. I will confirm the dates by next Tuesday.
+The football club plans to hire more staff. "You're going to love this place," Grandpa said.
+"Nobody told me about the meeting," she said, as we sat down.
+The post office said on Tuesday that it would hire more staff as part of a wider plan.
+Chop the bread on both sides and set aside.
+Our teacher fixed the piano near the station before breakfast.
+The football club plans to open a second site. "I can't find my glasses," our guide said.
+By the time they reached the top of the hill, the sun had already set.
+Fry the lentils until golden before adding the stock.
+To clean the oven, gather everything you need, then test it before you finish.
+On the third day, the woman in the grey coat picked up the letter, and nobody said anything for a while.
+Shopping list: eggs, milk, bread, two lemons, rice, washing-up liquid.
+The national park said on Thursday that it would close two branches after a difficult year.
+To make a cup of tea, find a flat surface, then tidy up when you are done.
+To reset the password, first check the instructions, then wait about ten minutes.
+"I'll be back before dark," Grandpa said, half to herself.
+Our teacher checked the lamp at the edge of the field in the spring.
+The kitchen smelled of cinnamon and fresh coffee.
+The coach fixed the piano late at night. Later this week will be wet in the islands.
+The city council said on Friday that it would replace the old pipes after a long review.
+To make a cup of tea, first check the instructions, then press the button until the light turns green.
+The shop owner sold the old bicycle last week. On Monday will be cloudy in the islands.
+The water company plans to replace the old pipes. "I'll call you when I get there," our guide said.
+The post office said on Thursday that it would delay the new building after a long review.
+if (x > 0) {\n    return x;\n} else {\n    return -x;\n}
+The hospital trust plans to sell part of its land. "Nobody told me about the meeting," Sam said.
+To plant a tree, switch off the power, then tighten each screw by hand.
+Halfway up the stairs, her brother turned off the radio, and the room fell silent.
+"I can't find my glasses," he said, without looking up.
+Late that evening, the stranger turned off the radio, and the lights flickered.
+To reset the password, log in to your account, then press the button until the light turns green.
+To make a cup of tea, read the label carefully, then follow the steps on the screen.
+When the music stopped, the boy picked up the letter, and the dog began to bark.
+The coach borrowed the heavy box late at night. Tomorrow will be cloudy in the coast.
+The baker wrapped the blue van on the way home. This weekend will be sunny in the valleys.
+In the end, the stranger closed the book, and the room fell silent.
+On Saturday the league leaders drew with the visitors 1-1, in heavy rain.
+Tonight will be windy in the east, with patchy fog in the morning.
+Tonight will be sunny in the west, with patchy fog in the morning.
+The power went out at nine, and we played cards by candlelight.
+On Monday will be cloudy in the east, with light winds.
+The school board plans to open a second site. "That's the best soup I've ever had," the waiter said.
+The university said on Wednesday that it would raise its prices as part of a wider plan.
+To plant a tree, log in to your account, then wait about ten minutes.
+The national park plans to raise its prices. "We should have left earlier," Grandpa said.
+"I'll be back before dark," our guide said, without looking up.
+"We should have left earlier," the waiter said, a little too loudly.
+"That's the best soup I've ever had," Sam said, without looking up.
+Thanks for the quick reply. I will update the spreadsheet by the end of the week.
+def first_word(s):\n    return s.split()[0]
+Tonight will be cloudy in the valleys, with strong gusts on high ground.
+The housing association plans to launch a new service. "I'll be back before dark," our guide said.
+Stir the sauce in a little oil and set aside.
+The new manager returned the front door behind the school in the spring.
+"We should have left earlier," she said, half to herself.
+Thanks for the quick reply. I will post the samples by noon.
+The hospital trust plans to raise its prices. "I can't find my glasses," Sam said.
+"I can't find my glasses," my mother said, without looking up.
+Without a word, the old soldier picked up the letter, and the room fell silent.
+Tomorrow will be sunny in the east, with patchy fog in the morning.
+Simmer the lentils gently until the mixture thickens.
+The rail operator plans to freeze its budget. "Have you seen the news," the driver said.
+"I'll be back before dark," she said, without looking up.
+Bees visit thousands of flowers to make a single spoonful of honey.
+Thanks for the quick reply. I will share the notes by the end of the month.
+Without a word, the old soldier sat down by the fire, and nobody said anything for a while.
+Keep the receipt in case you need to return the jacket.
+Without a word, the doctor closed the book, and the dog began to bark.
+The baker returned the front door yesterday afternoon. This weekend will be foggy in the islands.
+Grate the bread slowly before adding the stock.
+Late that evening, the old soldier opened the drawer, and the rain started again.
+Her father fixed the red umbrella by the river yesterday afternoon.
+To renew your passport, open the settings menu, then save your changes.
+The rail operator said on Sunday that it would open a second site because of staff shortages.
+My aunt carried the wooden chair at the end of the day. This weekend will be windy in the west.
+This afternoon will be sunny in the east, with patchy fog in the morning.
+When is the next train to the coast?
+On Wednesday the champions lost to the city club 4-2, in their last game of the season.
+Roast carrots on both sides and cover with a lid.
+To clean the oven, gather everything you need, then follow the steps on the screen.
+Without a word, the doctor opened the drawer, and nobody said anything for a while.
+"It's colder than it looks," our guide said, as we sat down.
+The city council plans to raise its prices. "Let's try the other road," the driver said.
+The new manager cleaned the broken clock in the garage on Saturday morning.
+Grate the bread for a few minutes and set aside.
+To make a cup of tea, open the settings menu, then follow the steps on the screen.
+To renew your passport, open the settings menu, then press the button until the light turns green.
+Toast carrots in small batches then drain well.
+I usually read the news on my phone while I wait for the train.
+A young farmer carried the garden gate in the back room after the rain stopped.
+A student painted the old bicycle during the holidays. On Monday will be cold in the valleys.
+The post office said on Sunday that it would raise its prices to save money.
+On Saturday the city club lost to the county side 3-0, thanks to a late goal.
+Toast the nuts slowly and set aside.
+Tomorrow will be cold in the south, with patchy fog in the morning.
+On Sunday the hosts beat the city club 3-0, despite losing a player early on.
+The football club plans to extend the summer timetable. "I'll be back before dark," Grandpa said.
+The city council said on Wednesday that it would raise its prices because of rising costs.
+Roast the peppers on both sides until the mixture thickens.
+She keeps her grandmother's recipes in a tin box on the kitchen shelf.
+Why is the road closed today?
+Tonight will be windy in the east, with strong gusts on high ground.
+The energy firm plans to launch a new service. "I can't find my glasses," my mother said.
+"That's the best soup I've ever had," Sam said, half to herself.
+Whisk the potatoes with a pinch of salt then leave to cool.
+Where should we meet?
+Late that evening, the doctor sat down by the fire, and the lights flickered.
+The local museum plans to extend the summer timetable. "You're going to love this place," the driver said.
+The national park plans to launch a new service. "I'll call you when I get there," Sam said.
+The post office plans to cut its opening hours. "Let's try the other road," she said.
+My cousin checked the kitchen table on Saturday morning. Tonight will be windy in the east.
+The city council plans to cut its opening hours. "I'll call you when I get there," my mother said.
+The national park said on Saturday that it would replace the old pipes because of staff shortages.
+The university plans to raise its prices. "I can't find my glasses," Grandpa said.
+The housing association said on Saturday that it would freeze its budget after a long review.
+def average(items):\n    return sum(items) / len(items)
+def count_vowels(s):\n    return sum(c in "aeiou" for c in s)
+During the war the factory made parts for aircraft instead of bicycles.
+On Wednesday the hosts lost to the league leaders 3-2, in heavy rain.
+def square(n):\n    return n ** 2
+Our landlord moved the small boat on the way home. This weekend will be cold in the west.
+Before the exam she read through her notes one last time.
+To hang a picture, measure the space, then wait about ten minutes.
+The hospital trust said on Friday that it would replace the old pipes after a long review.
+"Let's try the other road," the driver said, half to herself.
+Peel the cream gently until the mixture thickens.
+The coach sold the kitchen table near the station in the spring.
+Our teacher cleaned the front door behind the school after the rain stopped.
+The new manager fixed the broken clock by the river yesterday afternoon.
+The post office said on Tuesday that it would delay the new building to save money.
+"You're going to love this place," the waiter said, laughing.
+The baker cleaned the blue van during the holidays. This weekend will be sunny in the east.
+The driver lost the garden gate by the river before breakfast.
+This weekend will be windy in the south, with light winds.
+The local museum said on Sunday that it would launch a new service because of staff shortages.
+This weekend will be windy in the valleys, with strong gusts on high ground.
+To clean the oven, open the settings menu, then save your changes.
+Halfway up the stairs, the doctor put down the cup, and everyone turned to look.
+"Nobody told me about the meeting," she said, with a shrug.
+Why does bread go stale?
+Our landlord found the kitchen table on the way home. Later this week will be foggy in the hills.
+To back up your photos, measure the space, then tidy up when you are done.
+The farmer said the dry weather had been hard on the young crops.
+Roast the nuts for a few minutes before adding the stock.
+Tomorrow will be windy in the valleys, with patchy fog in the morning.
+The football club plans to open a second site. "We should have left earlier," the driver said.
+Halfway up the stairs, the woman in the grey coat looked back at the house, and the lights flickered.
+A light wind came off the sea and the sails filled.
+A student painted the piano at the edge of the field after the rain stopped.
+The university plans to review its safety rules. "That's the best soup I've ever had," the driver said.
+The university plans to replace the old pipes. "That's the best soup I've ever had," our guide said.
+To change a tyre, measure the space, then save your changes.
+Our landlord cleaned the piano last week. On Monday will be sunny in the islands.
+Tomorrow will be sunny in the valleys, with showers later in the day.
+Our landlord checked the broken clock by the river last week.
+Late that evening, the captain closed the book, and the rain started again.
+The local museum said on Monday that it would cut its opening hours as part of a wider plan.
+To change a tyre, gather everything you need, then wait about ten minutes.
+The rail operator plans to open a second site. "Nobody told me about the meeting," Grandpa said.
+The pilot moved the red umbrella during the holidays. Later this week will be sunny in the valleys.
+My aunt photographed the lamp in the spring. Tomorrow will be windy in the east.
+This weekend will be mild in the west, with strong gusts on high ground.
+import os\nfiles = os.listdir(".")\nprint(len(files), "files")
+The housing association plans to freeze its budget. "Nobody told me about the meeting," our guide said.
+On Monday will be mild in the north, with a chance of thunder.
+The librarian returned the front door by the river on Saturday morning.
+To change a tyre, read the label carefully, then tighten each screw by hand.
+Thanks for the invitation. I will share the notes by the end of the week.
+Thanks for your patience. I will call the supplier by Friday.
+Tonight will be warm in the west, with patchy fog in the morning.
+The driver returned the red umbrella near the station on the way home.
+When the music stopped, the old soldier looked back at the house, and everyone turned to look.
+"That's the best soup I've ever had," the driver said, picking up his bag.
+Toast the lentils in small batches and serve straight away.
+Without a word, the boy opened the drawer, and the lights flickered.
+The shop owner fixed the map of the town behind the school after the rain stopped.
+The pilot sold the ladder on Saturday morning. Tonight will be warm in the south.
+The baker borrowed the front door in the back room during the holidays.
+For a long moment, the doctor opened the drawer, and the room fell silent.
+Whisk the butter and sugar in small batches and cover with a lid.
+The local museum said on Sunday that it would open a second site following complaints.
+def clamp(x, lo, hi):\n    return max(lo, min(x, hi))\n
+The city council plans to review its safety rules. "I'll call you when I get there," my mother said.
+On the third day, her brother looked back at the house, and nobody said anything for a while.
+When the music stopped, the captain put down the cup, and the dog began to bark.
+Tomorrow will be cloudy in the islands, with patchy fog in the morning.
+He keeps forgetting his password and has to reset it every month.
+My cousin cleaned the front door behind the school last week.
+The old fisherman repaired the heavy box last week. Tomorrow will be warm in the islands.
+The city council plans to hire more staff. "Let's try the other road," Grandpa said.
+The school board plans to cut its opening hours. "I'll be back before dark," my mother said.
+Tomorrow will be wet in the east, with strong gusts on high ground.
+The hotel offers breakfast from seven until half past ten.
+Season the sauce until golden then leave to cool.
+On Monday the league leaders lost to the young team 4-2, after a slow start.
+On Wednesday the hosts drew with the home side 1-1, despite losing a player early on.
+On Friday the hosts drew with the county side 0-0, thanks to a late goal.
+On Wednesday the young team drew with the visitors 0-0, in front of a large crowd.
+A tourist opened the blue van late at night. Later this week will be wet in the coast.
+Thanks for sending the files. I will update the spreadsheet by Friday.
+Whisk the peppers gently and cover with a lid.
+A young farmer borrowed the blue van last week. Tomorrow will be warm in the east.
+"Nobody told me about the meeting," he said, as we sat down.
+def last(xs):\n    return xs[-1]
+The lecture began with a story about a lost map and a sailor who refused to give up.
+A tourist wrapped the garden gate at the edge of the field before breakfast.
+The nurse checked the front door during the holidays. This weekend will be cold in the hills.
+Where is the nearest pharmacy?
+The national park plans to review its safety rules. "Have you seen the news," he said.
+Halfway up the stairs, the captain closed the book, and the room fell silent.
+"Let's try the other road," our guide said, picking up his bag.
+"Nobody told me about the meeting," she said, without looking up.
+The rail operator said on Friday that it would hire more staff following complaints.
+"You're going to love this place," the waiter said, as we sat down.
+On clear days you can see the hills on the other side of the bay.
+In the end, the boy walked to the window, and the dog began to bark.
+We ordered too much food and took the rest home in boxes.
+She had not been back to the house since she was a child, and it looked smaller than she remembered.
+To hang a picture, switch off the power, then wait about ten minutes.
+"I'll call you when I get there," she said, picking up his bag.
+To hang a picture, read the label carefully, then wait about ten minutes.
+To plant a tree, read the label carefully, then test it before you finish.
+Late that evening, her brother walked to the window, and the dog began to bark.
+Thanks for the update. I will confirm the dates by the end of the month.
+Our teacher carried the piano on the way home. This weekend will be wet in the hills.
+What do you want for dinner?
+The new manager moved the front door in the spring. On Monday will be cold in the north.
+Our teacher cleaned the map of the town in the garage in the spring.
+To renew your passport, find a flat surface, then fill in the form.
+I forgot my umbrella at the office, so I waited in the doorway until the rain eased.
+The librarian opened the wooden chair at the end of the day. This afternoon will be wet in the islands.
+The shop owner lost the broken clock on Saturday morning. Later this week will be mild in the south.
+The museum has a new exhibition about the history of the printing press.
+To make a cup of tea, find a flat surface, then save your changes.
+To reset the password, first check the instructions, then follow the steps on the screen.
+The national park plans to cut its opening hours. "Have you seen the news," he said.
+def greet(name):\n    return "Hello, " + name
+The librarian photographed the piano behind the school last week.
+Her father opened the lamp behind the school late at night.
+On Saturday the city club beat the home side 1-0, thanks to a late goal.
+The rail operator said on Wednesday that it would replace the old pipes to save money.
+Slice the butter and sugar with a wooden spoon until the mixture thickens.
+The rail operator plans to launch a new service. "Let's try the other road," the waiter said.
+The nurse wrapped the broken clock in the garage during the holidays.
+Thanks for your help yesterday. I will book the room by Friday.
+The driver borrowed the small boat near the station at the end of the day.
+Monday: dentist at 9. Tuesday: call the bank. Wednesday: return library books.
+A student fixed the map of the town at the market after the rain stopped.
+The baker wrapped the blue van at the market last week.
+For a long moment, the old soldier closed the book, and the dog began to bark.
+The nurse fixed the bag of apples in the spring. On Monday will be mild in the valleys.
+The city council plans to close two branches. "That's the best soup I've ever had," our guide said.
+The university plans to launch a new service. "You're going to love this place," Grandpa said.
+On Monday will be foggy in the valleys, with clear spells overnight.
+To clean the oven, open the settings menu, then test it before you finish.
+Tonight will be warm in the east, with temperatures near freezing.
+The national park plans to review its safety rules. "I can't find my glasses," Grandpa said.
+Our teacher returned the bag of apples outside the church after the rain stopped.
+The new park has a pond, a playground and a long path for runners.
+For a long moment, the old soldier picked up the letter, and the rain started again.
+Thanks for checking the figures. I will finish the review by the end of the month.
+A young farmer checked the kitchen table in the back room in the spring.
+The post office said on Monday that it would cut its opening hours because of rising costs.
+To set up the printer, open the settings menu, then wait about ten minutes.
+Without a word, her brother walked to the window, and the lights flickered.
+On Monday will be cloudy in the north, with temperatures near freezing.
+On Tuesday the league leaders drew with the hosts 0-0, in front of a large crowd.
+"I can't find my glasses," our guide said, as we sat down.
+To renew your passport, open the settings menu, then wait about ten minutes.
+Our landlord found the garden gate during the holidays. On Monday will be cold in the east.
+She grows tomatoes, beans and courgettes on her small balcony.
+The energy firm said on Thursday that it would open a second site to meet growing demand.
+"I'll call you when I get there," the waiter said, as the door closed.
+To renew your passport, measure the space, then follow the steps on the screen.
+The waiter brought us bread and olives while we read the menu.
+Halfway up the stairs, the girl looked back at the house, and the clock struck twelve.
+The librarian fixed the front door at the edge of the field at the end of the day.
+while count < 10:\n    count += 1\nprint("done")
+Peel the potatoes on both sides then drain well.
+Stir the butter and sugar with a pinch of salt then leave to cool.
+The housing association plans to open a second site. "That's the best soup I've ever had," Sam said.
+The librarian painted the heavy box yesterday afternoon. Tonight will be windy in the south.
+Without a word, the doctor looked back at the house, and everyone turned to look.
+"I'll call you when I get there," the driver said, picking up his bag.
+My cousin borrowed the map of the town late at night. Later this week will be sunny in the islands.
+The rail operator said on Thursday that it would launch a new service after a difficult year.
+Thanks for the update. I will share the notes by tomorrow morning.
+Tomorrow will be mild in the west, with patchy fog in the morning.
+The mayor carried the heavy box at the market late at night.
+In the evening the square fills with people eating ice cream and talking.
+The new stadium can hold 45,000 people and cost more than 300 million to build.
+On the third day, the stranger closed the book, and the room fell silent.
+For a long moment, the stranger picked up the letter, and the dog began to bark.
+"It's colder than it looks," she said, laughing.
+Thanks for the quick reply. I will share the notes by tomorrow morning.
+What time is the concert?
+On Wednesday the hosts drew with the home side 0-0, despite losing a player early on.
+The coach moved the piano last week. Tonight will be warm in the islands.
+Season the potatoes over a low heat then leave to cool.
+On the third day, the old soldier opened the drawer, and a cold draught came under the door.
+The post office said on Thursday that it would extend the summer timetable as part of a wider plan.
+Tonight will be foggy in the west, with strong gusts on high ground.
+On the third day, the doctor looked back at the house, and a cold draught came under the door.
+A student borrowed the red umbrella outside the church yesterday afternoon.
+Thanks for checking the figures. I will call the supplier by next Tuesday.
+The population of the town grew from 12,000 in 1950 to almost 40,000 by 2000.
+Her father borrowed the red umbrella on Saturday morning. This afternoon will be cold in the south.
+A student painted the kitchen table on the top floor after the rain stopped.
+The rail operator said on Friday that it would extend the summer timetable after a difficult year.
+The city council said on Saturday that it would raise its prices to save money.
+The football club said on Monday that it would cut its opening hours to save money.
+Thanks for sending the files. I will send the final version by next Tuesday.
+Chop onions for a few minutes until soft.
+The shares fell sharply after the company warned that profits would be lower than expected.
+The hospital trust plans to sell part of its land. "Let's try the other road," Sam said.
+On Saturday the county side drew with the visitors 2-2, in heavy rain.
+Roast onions on both sides before adding the stock.
+The marathon is just over 42 kilometres long.
+The school board plans to delay the new building. "You're going to love this place," she said.
+Just before dawn, the boy sat down by the fire, and a cold draught came under the door.
+The water company plans to delay the new building. "I can't find my glasses," he said.
+The coach sold the lamp in the garage last week.
+The new manager cleaned the lamp at the end of the day. This weekend will be foggy in the coast.
+Later this week will be foggy in the hills, with patchy fog in the morning.
+The pilot moved the red umbrella late at night. On Monday will be cold in the south.
+This afternoon will be sunny in the valleys, with clear spells overnight.
+A young farmer cleaned the red umbrella behind the school at the end of the day.
+On Wednesday the home side lost to the young team 3-0, in heavy rain.
+The school board plans to sell part of its land. "You're going to love this place," he said.
+Where did you buy that jacket?
+The old fisherman sold the blue van before breakfast. This weekend will be warm in the west.
+Thanks for the quick reply. I will update the spreadsheet by the end of the month.
+On the third day, the boy turned off the radio, and the room fell silent.
+To renew your passport, read the label carefully, then tidy up when you are done.
+When will the results be ready?
+His neighbour returned the blue van on the top floor on Saturday morning.
+The local museum said on Friday that it would cut its opening hours after a difficult year.
+His neighbour cleaned the map of the town after the rain stopped. This weekend will be cloudy in the hills.
+"I'll be back before dark," she said, as we sat down.
+The hospital trust plans to delay the new building. "I'll be back before dark," the driver said.
+In the end, the girl looked back at the house, and the room fell silent.
+For a long moment, the doctor walked to the window, and a cold draught came under the door.
+Tomorrow will be mild in the hills, with patchy fog in the morning.
+Late that evening, the old soldier opened the drawer, and the room fell silent.
+To renew your passport, measure the space, then press the button until the light turns green.
+The new manager painted the garden gate on Saturday morning. Tomorrow will be cold in the valleys.
+When the music stopped, the stranger picked up the letter, and the lights flickered.
+The hospital trust said on Friday that it would cut its opening hours as part of a wider plan.
+Tomorrow will be foggy in the east, with light winds.
+A volunteer opened the front door near the station after the rain stopped.
+His neighbour moved the piano outside the church in the spring.
+On the third day, the boy walked to the window, and the room fell silent.
+To make a cup of tea, measure the space, then tidy up when you are done.
+On Saturday the home side drew with the visitors 0-0, thanks to a late goal.
+Without a word, the woman in the grey coat put down the cup, and everyone turned to look.
+The mayor painted the small boat at the edge of the field late at night.
+A tourist found the front door on the top floor before breakfast.
+The energy firm said on Saturday that it would open a second site as part of a wider plan.
+A tourist wrapped the small boat on the way home. On Monday will be foggy in the valleys.
+The post office said on Monday that it would open a second site as part of a wider plan.
+Thanks for sending the files. I will call the supplier by next Tuesday.
+This weekend will be warm in the coast, with light winds.
+How long should I boil the potatoes for?
+To make a cup of tea, open the settings menu, then save your changes.
+"Have you seen the news," Grandpa said, as we sat down.
+The coach sold the blue van near the station late at night.
+The housing association said on Friday that it would delay the new building as part of a wider plan.
+"Let's try the other road," our guide said, laughing.
+The school board plans to replace the old pipes. "Nobody told me about the meeting," she said.
+The rail operator said on Thursday that it would extend the summer timetable because of staff shortages.
+The national park said on Monday that it would hire more staff because of rising costs.
+On Sunday the visitors beat the champions 3-2, in heavy rain.
+On Monday the champions drew with the hosts 1-1, in front of a large crowd.
+Later this week will be windy in the north, with patchy fog in the morning.
+Tomorrow will be cold in the hills, with strong gusts on high ground.
+The water company plans to close two branches. "Nobody told me about the meeting," the driver said.
+A man at the next table was reading a newspaper in a language I did not recognise.
+Thanks for the update. I will share the notes by the end of the month.
+The doctor told him to rest for a week and drink plenty of water.
+Without a word, the woman in the grey coat put down the cup, and the lights flickered.
+The post office plans to cut its opening hours. "Let's try the other road," the driver said.
+The old mill by the river has been turned into a cafe and a small gallery.
+The national park said on Saturday that it would extend the summer timetable because of staff shortages.
+On Monday the city club beat the home side 1-0, despite losing a player early on.
+Chop garlic over a low heat before adding the stock.
+The driver photographed the wooden chair by the river last week.
+The hospital trust said on Thursday that it would review its safety rules after a long review.
+The meeting has been moved to Wednesday because half the team is away on Tuesday.
+"I can't find my glasses," the driver said, a little too loudly.
+Toast garlic over a low heat before adding the stock.
+"We should have left earlier," my mother said, as the door closed.
+The hospital trust said on Monday that it would raise its prices after a difficult year.
+To change a tyre, switch off the power, then wait about ten minutes.
+The rail operator plans to raise its prices. "We should have left earlier," he said.
+"We should have left earlier," my mother said, with a shrug.
+SELECT name, age FROM people WHERE age > 30 ORDER BY name;
+Fry garlic for a few minutes until the mixture thickens.
+The driver photographed the ladder last week. On Monday will be mild in the islands.
+My aunt fixed the lamp on the way home. Tonight will be windy in the islands.
+To hang a picture, read the label carefully, then press the button until the light turns green.
+A volunteer wrapped the lamp after the rain stopped. This afternoon will be warm in the south.
+The old fisherman fixed the piano by the river after the rain stopped.
+"I'll call you when I get there," the waiter said, with a shrug.
+The pilot lost the piano before breakfast. This afternoon will be warm in the coast.
+The two teams shook hands before the game and again after it.
+Tonight will be windy in the islands, with patchy fog in the morning.
+This weekend will be warm in the west, with patchy fog in the morning.
+The water company said on Wednesday that it would raise its prices to save money.
+When the music stopped, the stranger put down the cup, and a cold draught came under the door.
+The housing association said on Monday that it would replace the old pipes because of staff shortages.
+A young farmer repaired the broken clock by the river on Saturday morning.
+Dear Anna,\nThank you for the flowers. They brightened up the whole room.\nWith love, Maria
+"I think it's going to rain," said the old man, looking up at the clouds.
+Her father cleaned the small boat in the garage on the way home.
+The university said on Thursday that it would review its safety rules because of staff shortages.
+Roast carrots gently before adding the stock.
+The housing association said on Saturday that it would launch a new service to meet growing demand.
+The first railway in the region opened in 1842 and carried coal to the port.
+The shop owner opened the heavy box during the holidays. Tomorrow will be mild in the west.
+"You're going to love this place," he said, laughing.
+"That's the best soup I've ever had," the driver said, without looking up.
+To reset the password, gather everything you need, then save your changes.
+"I can't find my glasses," the driver said, as we sat down.
+Mix the sauce with a wooden spoon and serve straight away.
+To make a cup of tea, first check the instructions, then follow the steps on the screen.
+The mayor returned the broken clock late at night. This afternoon will be sunny in the hills.
+The mayor sold the blue van during the holidays. Tomorrow will be foggy in the islands.
+"Have you seen the news," Sam said, with a shrug.
+Stir garlic until golden until the mixture thickens.
+To back up your photos, switch off the power, then test it before you finish.
+The water company said on Friday that it would review its safety rules following complaints.
+"That's the best soup I've ever had," the waiter said, half to herself.
+On the third day, the stranger sat down by the fire, and the room fell silent.
+To change a tyre, log in to your account, then wait about ten minutes.
+Her father photographed the kitchen table at the market last week.
+The heating comes on automatically at six in the morning.
+Our landlord cleaned the front door at the edge of the field late at night.
+To renew your passport, read the label carefully, then tighten each screw by hand.
+Without a word, the boy walked to the window, and nobody said anything for a while.
+Season the lentils until golden and serve straight away.
+To make a cup of tea, log in to your account, then tighten each screw by hand.
+Slice onions in small batches until soft.
+On Friday the home side drew with the hosts 0-0, thanks to a late goal.
+Thanks for the invitation. I will call the supplier by next Tuesday.
+"It's colder than it looks," the driver said, with a shrug.
+The energy firm said on Monday that it would hire more staff following complaints.
+On the third day, the stranger picked up the letter, and the lights flickered.
+The coach photographed the broken clock in the garage during the holidays.
+Halfway up the stairs, the old soldier sat down by the fire, and the room fell silent.
+The temperature dropped to minus eight degrees on the coldest night of the year.
+To clean the oven, measure the space, then follow the steps on the screen.
+Thanks for sending the files. I will call the supplier by noon.
+The local paper printed a photograph of the flooded high street.
+For a long moment, her brother opened the drawer, and the lights flickered.
+Whisk the peppers on both sides then leave to cool.
+Chop the peppers with a pinch of salt until soft.
+Our landlord sold the lamp on Saturday morning. On Monday will be windy in the coast.
+The shop owner cleaned the broken clock at the edge of the field before breakfast.
+The city council said on Tuesday that it would raise its prices after a long review.
+The nurse returned the map of the town on the top floor on the way home.
+The shop owner sold the front door late at night. Tonight will be wet in the coast.
+"Nobody told me about the meeting," Grandpa said, with a shrug.
+Simmer carrots with a wooden spoon and serve straight away.
+On the third day, the girl picked up the letter, and the room fell silent.
+They argued about the route but agreed on where to stop for lunch.
+He was the first person in his family to go to university.
+Thanks for your patience. I will book the room by noon.
+A tourist carried the old bicycle last week. Tonight will be foggy in the north.
+To hang a picture, find a flat surface, then press the button until the light turns green.
+On Tuesday the young team lost to the home side 4-2, thanks to a late goal.
+On Friday the home side drew with the league leaders 1-1, after a slow start.
+A student repaired the heavy box in the attic before breakfast.
+On the third day, the boy sat down by the fire, and everyone turned to look.
+The shop owner opened the lamp in the back room last week.
+Tomorrow will be cloudy in the valleys, with temperatures near freezing.
+The shop owner painted the wooden chair after the rain stopped. Tonight will be cold in the coast.
+To book a ticket online, gather everything you need, then tidy up when you are done.
+My aunt lost the red umbrella on Saturday morning. This weekend will be cloudy in the west.
+What time does the museum open on Saturdays?
+Toast the butter and sugar over a low heat until the mixture thickens.
+The university plans to extend the summer timetable. "Let's try the other road," Sam said.
+Just before dawn, the boy opened the drawer, and a cold draught came under the door.
+On Monday will be sunny in the coast, with light winds.
+This weekend will be mild in the north, with temperatures near freezing.
+On Wednesday the champions lost to the visitors 3-0, in heavy rain.
+Halfway up the stairs, the girl walked to the window, and nobody said anything for a while.
+The teacher asked the students to bring a picture of their favourite place.
+On Sunday the county side lost to the league leaders 3-2, after a slow start.
+On the third day, the girl looked back at the house, and the rain started again.
+The hospital trust plans to replace the old pipes. "You're going to love this place," Sam said.
+In the end, her brother picked up the letter, and the dog began to bark.
+The local museum plans to open a second site. "That's the best soup I've ever had," the waiter said.
+To change a tyre, read the label carefully, then tidy up when you are done.
+To plant a tree, first check the instructions, then fill in the form.
+The rail operator plans to freeze its budget. "Have you seen the news," Sam said.
+Whisk carrots in a little oil until the mixture thickens.
+Thanks for the update. I will share the notes by noon.
+To set up the printer, switch off the power, then tighten each screw by hand.
+This afternoon will be cold in the north, with showers later in the day.
+On Monday the hosts beat the young team 2-1, despite losing a player early on.
+My aunt carried the garden gate in the garage on the way home.
+Toast the mushrooms in a little oil and serve straight away.
+"It's colder than it looks," she said, as we sat down.
+The baker fixed the piano on the top floor late at night.
+Many birds fly south for the winter and return in the spring to breed.
+Late that evening, the stranger opened the drawer, and the dog began to bark.
+The old fisherman found the small boat after the rain stopped. On Monday will be warm in the hills.
+My aunt found the small boat in the attic before breakfast.
+When the music stopped, the old soldier put down the cup, and everyone turned to look.
+The rail operator plans to extend the summer timetable. "Have you seen the news," the driver said.
+The swimming pool is closed for cleaning on the first Monday of every month.
+The water company said on Tuesday that it would close two branches to meet growing demand.
+To set up the printer, first check the instructions, then press the button until the light turns green.
+The hospital trust plans to raise its prices. "We should have left earlier," my mother said.
+On Saturday the city club drew with the league leaders 2-2, in their last game of the season.
+Without a word, the doctor picked up the letter, and everyone turned to look.
+The school board said on Tuesday that it would review its safety rules after a difficult year.
+A young farmer sold the old bicycle at the market on Saturday morning.
+To make a cup of tea, first check the instructions, then tighten each screw by hand.
+This weekend will be cold in the coast, with temperatures near freezing.
+For a long moment, the woman in the grey coat put down the cup, and the rain started again.
+The rail operator said on Wednesday that it would raise its prices after a difficult year.
+My aunt lost the blue van yesterday afternoon. This afternoon will be sunny in the valleys.
+Thanks for the photos. I will update the spreadsheet by tomorrow morning.
+Late that evening, the girl picked up the letter, and the dog began to bark.
+The new manager wants every meeting to finish within half an hour.
+Our teacher opened the lamp outside the church last week.
+The rail operator said on Friday that it would close two branches because of rising costs.
+Our neighbours planted three apple trees last spring, and this year they have their first fruit.
+The plan is to finish the first draft by the end of the month.
+"I'll call you when I get there," he said, picking up his bag.
+The school board said on Saturday that it would replace the old pipes after a long review.
+Season the potatoes with a wooden spoon then leave to cool.
+The university said on Saturday that it would cut its opening hours after a long review.
+The housing association plans to review its safety rules. "I can't find my glasses," he said.
+Chop the sauce gently until the mixture thickens.
+My cousin carried the old bicycle on the top floor on the way home.
+On Friday the hosts drew with the visitors 2-2, despite losing a player early on.
+To hang a picture, find a flat surface, then tidy up when you are done.
+In the end, the doctor picked up the letter, and the rain started again.
+Grate the peppers in small batches until the mixture thickens.
+Our train passed fields of sunflowers that stretched to the horizon.
+The librarian sold the heavy box yesterday afternoon. This afternoon will be mild in the coast.
+Roast the potatoes in a little oil and cover with a lid.
+About a third of the land in the region is covered by forest.
+The football club said on Wednesday that it would close two branches following complaints.
+The housing association plans to replace the old pipes. "Nobody told me about the meeting," Sam said.
+A student fixed the small boat on the top floor before breakfast.
+Roast the bread over a low heat and set aside.
+On Sunday the young team lost to the city club 2-1, despite losing a player early on.
+Chop the mushrooms until golden before adding the stock.
+Thanks for your help yesterday. I will send the final version by Friday.
+The local museum said on Saturday that it would cut its opening hours as part of a wider plan.
+Thanks for your patience. I will book the room by tomorrow morning.
+The rail operator said on Thursday that it would cut its opening hours after a difficult year.
+def count_vowels(s):\n    return sum(c in "aeiou" for c in s)\n
+My cousin wrapped the front door in the back room late at night.
+Mix onions on both sides until the mixture thickens.
+When the music stopped, her brother put down the cup, and the room fell silent.
+The post office said on Thursday that it would delay the new building to save money.
+The post office said on Sunday that it would raise its prices after a difficult year.
+On Monday the league leaders beat the young team 3-0, despite losing a player early on.
+Without a word, the woman in the grey coat looked back at the house, and a cold draught came under the door.
+"Nobody told me about the meeting," Sam said, with a shrug.
+"I'll call you when I get there," she said, as we sat down.
+To book a ticket online, read the label carefully, then wait about ten minutes.
+To renew your passport, switch off the power, then tidy up when you are done.
+Toast the nuts gently before adding the stock.
+Thanks for your help yesterday. I will post the samples by next Tuesday.
+The rail operator said on Sunday that it would sell part of its land to meet growing demand.
+To change a tyre, gather everything you need, then follow the steps on the screen.
+A young farmer photographed the blue van in the attic before breakfast.
+def area(x, y):\n    return x * y
+Halfway up the stairs, the boy walked to the window, and nobody said anything for a while.
+Whisk the sauce over a low heat and serve straight away.
+The driver borrowed the garden gate at the edge of the field late at night.
+Her father returned the front door on the top floor on the way home.
+The recipe calls for two onions, a tin of tomatoes and a handful of fresh basil.
+Slice the peppers in a little oil and cover with a lid.
+A tourist cleaned the heavy box outside the church in the spring.
+The local museum plans to sell part of its land. "Let's try the other road," the waiter said.
+Tonight will be cold in the coast, with clear spells overnight.
+The cat sleeps on the radiator shelf from October to March.
+The nurse returned the front door outside the church late at night.
+Our flight was delayed by three hours, so we had dinner at the airport.
+The national park plans to replace the old pipes. "That's the best soup I've ever had," she said.
+A student borrowed the garden gate after the rain stopped. This weekend will be cloudy in the islands.
+The old fisherman photographed the broken clock yesterday afternoon. Tomorrow will be warm in the hills.
+Fry garlic in a little oil then drain well.
+On Thursday the visitors beat the city club 4-2, in their last game of the season.
+For a long moment, the stranger sat down by the fire, and a cold draught came under the door.
+The treaty was signed in a small town on the border after months of talks.
+The pilot fixed the heavy box before breakfast. Later this week will be warm in the valleys.
+Stir the lentils with a pinch of salt then drain well.
+Thanks for your help yesterday. I will share the notes by next Tuesday.
+"I'll be back before dark," the driver said, laughing.
+"We should have left earlier," our guide said, without looking up.
+To renew your passport, switch off the power, then press the button until the light turns green.
+Our teacher found the broken clock at the end of the day. Later this week will be windy in the south.
+My aunt lost the piano outside the church on the way home.
+On Tuesday the home side lost to the young team 3-2, in front of a large crowd.
+Thanks for the quick reply. I will post the samples by the end of the week.
+The national park plans to open a second site. "I'll call you when I get there," the driver said.
+"Let's try the other road," our guide said, half to herself.
+In the end, the stranger closed the book, and the rain started again.
+To plant a tree, measure the space, then tidy up when you are done.
+The post office said on Friday that it would replace the old pipes because of staff shortages.
+A tourist fixed the map of the town by the river after the rain stopped.
+Thanks for your patience. I will update the spreadsheet by Friday.
+Chop onions until golden then drain well.
+Season the cream with a wooden spoon and cover with a lid.
+A volunteer carried the piano in the back room on the way home.
+The village shop also works as a post office and a cafe.
+On Monday will be foggy in the south, with patchy fog in the morning.
+The hospital trust plans to extend the summer timetable. "It's colder than it looks," he said.
+"You're going to love this place," Sam said, laughing.
+Halfway up the stairs, the stranger turned off the radio, and nobody said anything for a while.
+The old fisherman photographed the garden gate behind the school on the way home.
+Tonight will be sunny in the coast, with strong gusts on high ground.
+A tourist fixed the front door in the back room in the spring.
+His neighbour painted the bag of apples outside the church during the holidays.
+His neighbour borrowed the garden gate on the way home. This weekend will be cloudy in the coast.
+The football club plans to delay the new building. "I can't find my glasses," she said.
+The pilot repaired the bag of apples yesterday afternoon. On Monday will be sunny in the south.
+A young farmer opened the old bicycle on the top floor during the holidays.
+Later this week will be wet in the south, with temperatures near freezing.
+The energy firm plans to cut its opening hours. "Let's try the other road," the driver said.
+My cousin opened the wooden chair yesterday afternoon. Later this week will be wet in the valleys.
+"It's colder than it looks," Grandpa said, as the door closed.
+To plant a tree, log in to your account, then test it before you finish.
+The old fisherman painted the old bicycle by the river last week.
+The post office plans to close two branches. "I can't find my glasses," my mother said.
+"Let's try the other road," my mother said, as the door closed.
+We painted the kitchen yellow, and now it feels warmer even on grey days.
+In the end, the stranger put down the cup, and a cold draught came under the door.
+The company employs around 2,500 people across five countries.
+The shop owner cleaned the small boat last week. Tomorrow will be warm in the west.
+To hang a picture, open the settings menu, then fill in the form.
+The rail operator said on Thursday that it would raise its prices because of staff shortages.
+The moon has no air, so there is no wind to disturb the footprints left by astronauts.
+Thanks for sending the files. I will finish the review by tomorrow morning.
+The school board plans to raise its prices. "Let's try the other road," Grandpa said.
+The bank has cut its interest rate for the first time in two years.
+Stir the mushrooms until golden and cover with a lid.
+"Nobody told me about the meeting," the waiter said, as we sat down.
+Peel onions slowly then leave to cool.
+For a long moment, the captain sat down by the fire, and the rain started again.
+The water company plans to close two branches. "That's the best soup I've ever had," the driver said.
+Just before dawn, the old soldier walked to the window, and nobody said anything for a while.
+Whisk carrots with a wooden spoon then drain well.
+"Let's try the other road," he said, without looking up.
+To change a tyre, read the label carefully, then test it before you finish.
+Tomorrow will be cold in the coast, with light winds.
+The street was empty except for a cat crossing under the lamp.
+For a long moment, the doctor turned off the radio, and a cold draught came under the door.
+Our teacher checked the broken clock late at night. This weekend will be windy in the valleys.
+The coach returned the map of the town on the way home. Tonight will be cold in the north.
+Chop onions until golden until the mixture thickens.
+The energy firm said on Friday that it would freeze its budget to save money.
+My cousin lost the lamp in the spring. This afternoon will be foggy in the islands.
+Her father opened the wooden chair on Saturday morning. Later this week will be mild in the islands.
+The engineer explained that the machine needs to cool down between runs.
+The cricket match was abandoned without a ball being bowled.
+The university plans to sell part of its land. "You're going to love this place," she said.
+To plant a tree, log in to your account, then save your changes.
+My aunt wrapped the piano outside the church after the rain stopped.
+For a long moment, her brother walked to the window, and the rain started again.
+To change a tyre, measure the space, then tidy up when you are done.
+Our street has a party every year on the first Saturday of July.
+The coach carried the wooden chair outside the church before breakfast.
+Toast the sauce for a few minutes and cover with a lid.
+On Sunday the county side drew with the young team 2-2, in front of a large crowd.
+The phone battery lasts about two days if you turn off the screen when you are not using it.
+The national park said on Wednesday that it would review its safety rules to save money.
+This afternoon will be warm in the east, with a chance of thunder.
+Peel garlic on both sides then leave to cool.
+"We should have left earlier," Grandpa said, as we sat down.
+Whisk the sauce in small batches before adding the stock.
+A tourist cleaned the kitchen table on the way home. Later this week will be sunny in the south.
+To book a ticket online, measure the space, then wait about ten minutes.
+The price of coffee has risen sharply this year because of poor harvests.
+My cousin returned the wooden chair behind the school late at night.
+The university plans to close two branches. "I'll be back before dark," Sam said.
+Simmer the sauce on both sides then drain well.
+This weekend will be cold in the west, with strong gusts on high ground.
+On Sunday the hosts lost to the county side 3-2, despite losing a player early on.
+The local museum said on Monday that it would delay the new building because of rising costs.
+Without a word, the captain closed the book, and everyone turned to look.
+A volunteer found the broken clock behind the school on Saturday morning.
+The local museum said on Wednesday that it would open a second site as part of a wider plan.
+"We should have left earlier," Grandpa said, a little too loudly.
+"Are you coming with us?" she asked. "Only if we leave before six," he said.
+A volunteer lost the lamp in the back room late at night.
+In the end, the woman in the grey coat picked up the letter, and the lights flickered.
+This weekend will be foggy in the east, with clear spells overnight.
+To reset the password, find a flat surface, then wait about ten minutes.
+To set up the printer, open the settings menu, then test it before you finish.
+Peel the cream gently then leave to cool.
+A volunteer borrowed the small boat by the river at the end of the day.
+The nurse opened the ladder last week. Tomorrow will be windy in the valleys.
+Fry garlic over a low heat then drain well.
+The shop owner photographed the bag of apples at the market on the way home.
+The old fisherman opened the small boat last week. On Monday will be cold in the south.
+Roast garlic gently then drain well.
+Thanks for the quick reply. I will call the supplier by noon.
+To make a cup of tea, log in to your account, then save your changes.
+The national park said on Saturday that it would sell part of its land because of staff shortages.
+Thanks for your help yesterday. I will call the supplier by next Tuesday.
+Late that evening, the old soldier put down the cup, and nobody said anything for a while.
+The baker cleaned the piano last week. On Monday will be warm in the coast.
+"We should have left earlier," the driver said, without looking up.
+Roast garlic on both sides and serve straight away.
+On Tuesday the home side beat the young team 3-0, after a slow start.
+Thanks for your patience. I will update the spreadsheet by the end of the week.
+The school board plans to cut its opening hours. "I can't find my glasses," she said.
+Grate onions over a low heat and cover with a lid.
+To hang a picture, gather everything you need, then follow the steps on the screen.
+The pilot photographed the heavy box near the station late at night.
+The coach wrapped the bag of apples in the garage before breakfast.
+The baker cleaned the small boat at the market in the spring.
+The post office said on Wednesday that it would cut its opening hours to meet growing demand.
+The nurse fixed the kitchen table during the holidays. Tonight will be foggy in the north.
+On Tuesday the visitors lost to the city club 4-2, thanks to a late goal.
+This afternoon will be cloudy in the valleys, with patchy fog in the morning.
+To book a ticket online, measure the space, then press the button until the light turns green.
+My cousin repaired the piano on the way home. This weekend will be mild in the coast.
+Just before dawn, the boy sat down by the fire, and the rain started again.
+Halfway up the stairs, the stranger looked back at the house, and the rain started again.
+Whisk garlic gently until soft.
+The coach fixed the broken clock behind the school after the rain stopped.
+A young farmer carried the wooden chair behind the school on the way home.
+His neighbour photographed the front door on the way home. Tonight will be warm in the south.
+The football club said on Monday that it would hire more staff to meet growing demand.
+The post office said on Thursday that it would replace the old pipes after a long review.
+On the third day, the captain sat down by the fire, and the dog began to bark.
+The city council plans to cut its opening hours. "I can't find my glasses," the driver said.
+Stir onions in small batches and cover with a lid.
+A volunteer repaired the front door yesterday afternoon. Tonight will be windy in the south.
+Halfway up the stairs, the girl picked up the letter, and the lights flickered.
+The old fisherman sold the piano on the top floor during the holidays.
+Thanks for the update. I will confirm the dates by the end of the week.
+Tonight will be foggy in the north, with clear spells overnight.
+On Monday will be cold in the north, with temperatures near freezing.
+The hospital trust said on Saturday that it would open a second site after a long review.
+The recipe says to leave the dough in a warm place for at least an hour.
+Our teacher lost the red umbrella last week. This weekend will be sunny in the south.
+Fry the cream over a low heat until soft.
+The baker moved the ladder in the back room at the end of the day.
+The water company plans to freeze its budget. "That's the best soup I've ever had," Grandpa said.
+My cousin fixed the garden gate last week. Tonight will be foggy in the west.
+Thanks for the photos. I will post the samples by next Tuesday.
+Halfway up the stairs, the boy looked back at the house, and nobody said anything for a while.
+Grate carrots until golden before adding the stock.
+The post office plans to launch a new service. "I'll call you when I get there," the waiter said.
+A young farmer photographed the map of the town at the market last week.
+The national park plans to launch a new service. "I'll call you when I get there," she said.
+The post office said on Saturday that it would hire more staff after a long review.
+To back up your photos, measure the space, then tighten each screw by hand.
+The rail operator plans to sell part of its land. "You're going to love this place," my mother said.
+To hang a picture, first check the instructions, then test it before you finish.
+Her father moved the front door in the attic yesterday afternoon.
+Fry the nuts until golden before adding the stock.
+Thanks for sending the files. I will finish the review by noon.
+Mix onions in small batches and set aside.
+Thanks for checking the figures. I will share the notes by tomorrow morning.
+Tonight will be mild in the islands, with a chance of thunder.
+The housing association said on Saturday that it would open a second site after a long review.
+Sales of electric cars have doubled in the past year.
+This weekend will be warm in the coast, with temperatures near freezing.
+Thanks for sending the files. I will call the supplier by tomorrow morning.
+Our landlord repaired the map of the town before breakfast. This afternoon will be warm in the islands.
+The energy firm plans to launch a new service. "That's the best soup I've ever had," Sam said.
+On Monday will be windy in the valleys, with strong gusts on high ground.
+This weekend will be foggy in the west, with highs of around twenty degrees.
+Tomorrow will be sunny in the north, with light winds.
+The school board said on Saturday that it would freeze its budget following complaints.
+Thanks for checking the figures. I will confirm the dates by tomorrow morning.
+The local museum plans to delay the new building. "Nobody told me about the meeting," the driver said.
+The city council plans to delay the new building. "That's the best soup I've ever had," the waiter said.
+What happened to the old cinema?
+To reset the password, log in to your account, then wait about ten minutes.
+Thanks for the quick reply. I will confirm the dates by Friday.
+What is the best way to learn a language?
+Thanks for the quick reply. I will book the room by the end of the month.
+A young farmer opened the garden gate after the rain stopped. This afternoon will be windy in the south.
+Minutes of the meeting: the budget was approved, and the next meeting will be held in June.
+The new manager lost the map of the town yesterday afternoon. Later this week will be cloudy in the south.
+Whisk the sauce in a little oil and set aside.
+The energy firm plans to review its safety rules. "That's the best soup I've ever had," the waiter said.
+To set up the printer, find a flat surface, then save your changes.
+The nurse painted the small boat in the spring. This weekend will be wet in the coast.
+A tourist repaired the front door on Saturday morning. This afternoon will be cold in the hills.
+To renew your passport, log in to your account, then fill in the form.
+This afternoon will be wet in the hills, with showers later in the day.
+To set up the printer, log in to your account, then fill in the form.
+The water company plans to cut its opening hours. "I can't find my glasses," our guide said.
+The school board plans to hire more staff. "It's colder than it looks," my mother said.
+"Have you seen the news," our guide said, as we sat down.
+On Monday the county side lost to the league leaders 3-2, despite losing a player early on.
+He wrote his name on the first page of every book he owned.
+The driver fixed the wooden chair on Saturday morning. This weekend will be windy in the west.
+Stir the peppers until golden then leave to cool.
+"You're going to love this place," the waiter said, a little too loudly.
+A volunteer returned the lamp before breakfast. Tomorrow will be warm in the north.
+The football club plans to hire more staff. "You're going to love this place," the driver said.
+If you heat the pan before adding the oil, the eggs are less likely to stick.
+Thanks for sending the files. I will finish the review by next Tuesday.
+The post office plans to close two branches. "I'll be back before dark," my mother said.
+Slice garlic in small batches and set aside.
+A young farmer lost the piano on the way home. Tomorrow will be sunny in the hills.
+The school board plans to raise its prices. "We should have left earlier," my mother said.
+The housing association plans to launch a new service. "It's colder than it looks," my mother said.
+On Sunday the visitors lost to the league leaders 1-0, despite losing a player early on.
+Thanks for the photos. I will update the spreadsheet by the end of the week.
+A volunteer repaired the kitchen table in the garage after the rain stopped.
+Roast garlic with a wooden spoon and cover with a lid.
+To hang a picture, switch off the power, then tighten each screw by hand.
+The national park plans to delay the new building. "That's the best soup I've ever had," Sam said.
+On Sunday the home side lost to the county side 3-2, in front of a large crowd.
+The water company plans to close two branches. "That's the best soup I've ever had," he said.
+How often do the buses run?
+Why is the shop so busy?
+A tourist found the kitchen table by the river on Saturday morning.
+Simmer the bread with a pinch of salt then leave to cool.
+A student wrapped the heavy box in the attic during the holidays.
+The national park plans to open a second site. "You're going to love this place," my mother said.
+A volunteer painted the red umbrella before breakfast. Tonight will be windy in the north.
+On Saturday the home side lost to the league leaders 4-2, after a slow start.
+On Monday the young team beat the champions 4-2, in heavy rain.
+The local museum said on Thursday that it would cut its opening hours because of staff shortages.
+"I can't find my glasses," Sam said, as the door closed.
+To set up the printer, measure the space, then press the button until the light turns green.
+On Sunday the hosts beat the young team 2-1, in heavy rain.
+"We should have left earlier," our guide said, with a shrug.
+Halfway up the stairs, the girl walked to the window, and the dog began to bark.
+def double(n):\n    return n * 2
+def double(n):\n    return n * 2\n
+To set up the printer, log in to your account, then tighten each screw by hand.
+On the third day, the woman in the grey coat walked to the window, and everyone turned to look.
+The energy firm plans to raise its prices. "Have you seen the news," my mother said.
+x = [i * i for i in range(10)]\nprint(sum(x))
+To make a cup of tea, first check the instructions, then tidy up when you are done.
+The university said on Tuesday that it would launch a new service following complaints.
+The mayor sold the piano in the spring. Tonight will be mild in the hills.
+For a long moment, the boy closed the book, and the lights flickered.
+"It's colder than it looks," the driver said, without looking up.
+His neighbour painted the old bicycle late at night. Later this week will be cold in the west.
+On Wednesday the hosts drew with the home side 0-0, in their last game of the season.
+The hospital trust plans to delay the new building. "We should have left earlier," Grandpa said.
+Every Friday the office orders pizza for lunch.
+The driver carried the ladder in the garage last week.
+Our landlord fixed the lamp on Saturday morning. This weekend will be wet in the coast.
+I have never seen so many stars as I did that night in the desert.
+The baker opened the piano on the top floor during the holidays.
+The librarian borrowed the blue van late at night. Tonight will be warm in the east.
+The nurse lost the blue van in the garage in the spring.
+On Friday the league leaders beat the city club 3-2, thanks to a late goal.
+To back up your photos, first check the instructions, then press the button until the light turns green.
+Fry the peppers with a pinch of salt until the mixture thickens.
+The national park plans to close two branches. "It's colder than it looks," the driver said.
+To plant a tree, switch off the power, then wait about ten minutes.
+Season the cream with a pinch of salt then drain well.
+Grate the butter and sugar in small batches then drain well.
+To change a tyre, switch off the power, then test it before you finish.
+When the music stopped, the stranger walked to the window, and nobody said anything for a while.
+The library is collecting old photographs of the town for a new book.
+The librarian painted the old bicycle at the edge of the field at the end of the day.
+To book a ticket online, switch off the power, then tidy up when you are done.
+The national park plans to open a second site. "It's colder than it looks," our guide said.
+The school board said on Friday that it would sell part of its land to save money.
+The school board said on Thursday that it would close two branches because of rising costs.
+On Monday will be sunny in the south, with patchy fog in the morning.
+The local museum plans to launch a new service. "We should have left earlier," he said.
+The energy firm plans to delay the new building. "I can't find my glasses," he said.
+Prices rose by 3.2 percent in the year to March, the highest rate for a decade.
+The hospital trust plans to review its safety rules. "You're going to love this place," she said.
+Late that evening, the girl put down the cup, and the dog began to bark.
+My grandfather kept bees for forty years and never once wore gloves.
+def clamp(x, lo, hi):\n    return max(lo, min(x, hi))
+The energy firm said on Tuesday that it would close two branches to meet growing demand.
+"We should have left earlier," my mother said, half to herself.
+Thanks for the photos. I will share the notes by Friday.
+Thanks for the update. I will post the samples by tomorrow morning.
+Thanks for the photos. I will share the notes by the end of the week.
+This weekend will be sunny in the west, with clear spells overnight.
+My cousin photographed the blue van by the river before breakfast.
+The city council said on Sunday that it would cut its opening hours to save money.
+To set up the printer, read the label carefully, then press the button until the light turns green.
+Her father found the red umbrella before breakfast. Later this week will be sunny in the valleys.
+Our teacher found the front door at the market on the way home.
+To make a cup of tea, open the settings menu, then fill in the form.
+"You're going to love this place," she said, as the door closed.
+On Wednesday the county side lost to the league leaders 2-1, in their last game of the season.
+The local museum plans to open a second site. "We should have left earlier," she said.
+Halfway up the stairs, the old soldier turned off the radio, and a cold draught came under the door.
+Stir the nuts with a pinch of salt until the mixture thickens.
+Just before dawn, the doctor turned off the radio, and the room fell silent.
+To set up the printer, open the settings menu, then tighten each screw by hand.
+"I can't find my glasses," our guide said, with a shrug.
+On Friday the city club beat the county side 3-2, despite losing a player early on.
+The mayor borrowed the red umbrella on Saturday morning. This weekend will be wet in the valleys.
+Season the sauce on both sides and serve straight away.
+The football club said on Saturday that it would review its safety rules because of rising costs.
+Halfway up the stairs, the woman in the grey coat turned off the radio, and everyone turned to look.
+On the third day, the stranger walked to the window, and the clock struck twelve.
+Peel garlic on both sides until soft.
+The city council plans to cut its opening hours. "I'll be back before dark," my mother said.
+Our landlord moved the piano after the rain stopped. Tomorrow will be mild in the north.
+The hospital trust plans to review its safety rules. "Have you seen the news," Grandpa said.
+Mix garlic in a little oil until the mixture thickens.
+Our new neighbours have two small children and a very loud parrot.
+On Thursday the city club lost to the home side 2-1, in their last game of the season.
+They moved to the city for work but still go back to the village most weekends.
+The librarian borrowed the blue van behind the school before breakfast.
+In the end, the old soldier walked to the window, and everyone turned to look.
+The football club plans to close two branches. "Have you seen the news," Grandpa said.
+"I'll be back before dark," the driver said, as the door closed.
+The shop owner photographed the red umbrella in the garage during the holidays.
+Our teacher sold the red umbrella in the back room in the spring.
+The coach moved the ladder at the edge of the field on the way home.
+Slice the lentils in a little oil and cover with a lid.
+To back up your photos, read the label carefully, then save your changes.
+On Wednesday the hosts beat the home side 2-1, in their last game of the season.
+For a long moment, the woman in the grey coat put down the cup, and a cold draught came under the door.
+The city council said on Friday that it would delay the new building after a difficult year.
+On Monday the young team beat the county side 3-2, in heavy rain.
+The university plans to open a second site. "Have you seen the news," he said.
+Fry the nuts in a little oil then drain well.
+Peel garlic with a pinch of salt before adding the stock.
+To plant a tree, measure the space, then press the button until the light turns green.
+The housing association plans to freeze its budget. "That's the best soup I've ever had," the waiter said.
+After lunch we walked along the cliffs and watched the boats coming back into the harbour.
+The pilot wrapped the piano in the garage before breakfast.
+The energy firm said on Thursday that it would raise its prices as part of a wider plan.
+The company plans to open two new offices in the north next year.
+"I'll call you when I get there," Grandpa said, with a shrug.
+For a long moment, the doctor closed the book, and the clock struck twelve.
+On Sunday the home side drew with the champions 0-0, after a slow start.
+The hospital trust plans to sell part of its land. "Have you seen the news," she said.
+Our teacher painted the front door yesterday afternoon. Tomorrow will be windy in the coast.
+A tourist lost the piano in the back room on Saturday morning.
+The school board plans to replace the old pipes. "Nobody told me about the meeting," he said.
+The museum shop sells postcards of the paintings in the main hall.
+Chop the bread over a low heat and cover with a lid.
+On Monday the visitors drew with the home side 2-2, in front of a large crowd.
+To plant a tree, read the label carefully, then save your changes.
+The librarian wrapped the bag of apples outside the church last week.
+My aunt repaired the old bicycle on the top floor after the rain stopped.
+The shop on the corner sells everything from nails to birthday cards.
+A volunteer borrowed the small boat last week. On Monday will be wet in the east.
+The new manager photographed the wooden chair in the back room in the spring.
+A student cleaned the ladder on the top floor on the way home.
+"It's colder than it looks," Grandpa said, half to herself.
+Light from the Sun takes about eight minutes to reach the Earth.
+Thanks for the update. I will share the notes by the end of the week.
+A volunteer repaired the garden gate during the holidays. This weekend will be foggy in the islands.
+The football club plans to raise its prices. "I can't find my glasses," Grandpa said.
+The housing association plans to review its safety rules. "It's colder than it looks," he said.
+Step 1: unplug the device. Step 2: remove the back cover. Step 3: replace the battery.
+The shop owner wrapped the lamp in the back room yesterday afternoon.
+The old man smiled and handed the boy a key that had been hidden in his coat for years.
+The city council plans to close two branches. "Have you seen the news," he said.
+The shop owner painted the lamp at the edge of the field on Saturday morning.
+The school board said on Friday that it would freeze its budget following complaints.
+This afternoon will be windy in the islands, with showers later in the day.
+"I can't find my glasses," my mother said, half to herself.
+To book a ticket online, switch off the power, then test it before you finish.
+To back up your photos, first check the instructions, then fill in the form.
+"That's the best soup I've ever had," my mother said, a little too loudly.
+The last bus home leaves at a quarter past eleven.
+The university said on Friday that it would cut its opening hours following complaints.
+Mix the cream with a pinch of salt and cover with a lid.
+A young farmer returned the broken clock by the river after the rain stopped.
+Tomorrow will be windy in the islands, with highs of around twenty degrees.
+The energy firm said on Saturday that it would hire more staff to save money.
+A volunteer sold the map of the town at the end of the day. This afternoon will be foggy in the north.
+The children built a fort out of blankets and refused to come out for dinner.
+The baker repaired the small boat yesterday afternoon. Tonight will be windy in the north.
+The rail operator said on Thursday that it would close two branches as part of a wider plan.
+The football club said on Saturday that it would hire more staff following complaints.
+To book a ticket online, first check the instructions, then tidy up when you are done.
+On Sunday the county side drew with the city club 2-2, despite losing a player early on.
+The mayor wrapped the front door in the spring. Tomorrow will be cold in the coast.
+Thanks for the photos. I will send the final version by next Tuesday.
+On the third day, the doctor closed the book, and everyone turned to look.
+My cousin cleaned the lamp on the way home. On Monday will be mild in the north.
+For a long moment, the captain looked back at the house, and nobody said anything for a while.
+Season carrots for a few minutes and cover with a lid.
+To clean the oven, open the settings menu, then follow the steps on the screen.
+Whisk the lentils in small batches until soft.
+The hospital trust plans to freeze its budget. "We should have left earlier," the waiter said.
+The post office said on Sunday that it would replace the old pipes as part of a wider plan.
+Her father painted the piano on Saturday morning. Tomorrow will be sunny in the north.
+The university said on Tuesday that it would launch a new service because of staff shortages.
+"Let's try the other road," she said, laughing.
+Thanks for the update. I will update the spreadsheet by the end of the month.
+My cousin borrowed the piano behind the school before breakfast.
+The housing association said on Sunday that it would extend the summer timetable to meet growing demand.
+The energy firm said on Sunday that it would freeze its budget because of rising costs.
+The football club said on Wednesday that it would extend the summer timetable to save money.
+The store was out of milk, so I bought a carton from the corner shop.
+def total(values):\n    return sum(values)\n
+The driver lost the lamp outside the church on Saturday morning.
+The nurse carried the wooden chair near the station on the way home.
+Our landlord moved the front door before breakfast. This weekend will be windy in the south.
+For a long moment, the doctor looked back at the house, and a cold draught came under the door.
+The housing association plans to freeze its budget. "We should have left earlier," she said.
+The leaves turned red and gold almost overnight.
+Chop the mushrooms on both sides and set aside.
+The new manager painted the old bicycle in the spring. Tonight will be cloudy in the valleys.
+In the end, the captain put down the cup, and the room fell silent.
+Slice the nuts in a little oil until the mixture thickens.
+On Monday the home side lost to the city club 3-0, in their last game of the season.
+To set up the printer, log in to your account, then tidy up when you are done.
+Roast carrots over a low heat until soft.
+A tourist checked the small boat before breakfast. Tomorrow will be wet in the north.
+"You're going to love this place," she said, half to herself.
+Slice the nuts with a pinch of salt and cover with a lid.
+A student wrapped the kitchen table last week. Tomorrow will be mild in the valleys.
+The school board plans to sell part of its land. "That's the best soup I've ever had," the driver said.
+The hospital trust plans to delay the new building. "Nobody told me about the meeting," he said.
+To reset the password, read the label carefully, then wait about ten minutes.
+My cousin painted the kitchen table on the way home. This afternoon will be foggy in the coast.
+The mayor repaired the red umbrella at the edge of the field on the way home.
+To reset the password, open the settings menu, then press the button until the light turns green.
+Tomorrow will be warm in the islands, with light winds.
+Whisk the lentils until golden until soft.
+The university plans to delay the new building. "Nobody told me about the meeting," the waiter said.
+Chop carrots on both sides until the mixture thickens.
+"Nobody told me about the meeting," Grandpa said, as the door closed.
+Halfway up the stairs, the boy put down the cup, and the clock struck twelve.
+The local museum plans to sell part of its land. "I'll call you when I get there," my mother said.
+He forgot to set his alarm and woke up just as the bus was leaving.
+"You're going to love this place," Grandpa said, laughing.
+Later this week will be mild in the coast, with patchy fog in the morning.
+The football club said on Wednesday that it would freeze its budget after a difficult year.
+His neighbour lost the garden gate at the market at the end of the day.
+For a long moment, the woman in the grey coat opened the drawer, and the dog began to bark.
+The football club plans to sell part of its land. "I'll be back before dark," the waiter said.
+The baker lost the lamp at the edge of the field yesterday afternoon.
+The librarian borrowed the blue van in the spring. This weekend will be cloudy in the coast.
+The bus to the airport leaves from the stop outside the library every twenty minutes.
+The water company plans to replace the old pipes. "We should have left earlier," he said.
+His neighbour returned the red umbrella near the station in the spring.
+"Nobody told me about the meeting," my mother said, as the door closed.
+The driver returned the lamp during the holidays. Tonight will be cloudy in the south.
+The housing association plans to launch a new service. "It's colder than it looks," the waiter said.
+The hospital trust plans to sell part of its land. "Have you seen the news," my mother said.
+"Let's try the other road," Sam said, half to herself.
+On Thursday the league leaders lost to the city club 3-0, in heavy rain.
+When the music stopped, the stranger walked to the window, and the dog began to bark.
+My aunt cleaned the garden gate near the station last week.
+To plant a tree, switch off the power, then fill in the form.
+The hospital trust plans to hire more staff. "I'll call you when I get there," she said.
+Her father returned the piano at the market in the spring.
+The city council said on Thursday that it would freeze its budget as part of a wider plan.
+The coach wrapped the kitchen table during the holidays. On Monday will be cloudy in the north.
+The water company plans to cut its opening hours. "It's colder than it looks," the waiter said.
+The university said on Wednesday that it would raise its prices to meet growing demand.
+The baker moved the ladder yesterday afternoon. This afternoon will be wet in the east.
+To back up your photos, find a flat surface, then fill in the form.
+def average(items):\n    return sum(items) / len(items)\n
+Just before dawn, the girl looked back at the house, and the lights flickered.
+The shop owner borrowed the small boat near the station during the holidays.
+Season the peppers slowly and cover with a lid.
+Later this week will be sunny in the east, with clear spells overnight.
+To change a tyre, first check the instructions, then press the button until the light turns green.
+The nurse repaired the piano in the garage in the spring.
+The new manager sold the red umbrella in the back room in the spring.
+A new cycle path now runs along the canal from the station to the park.
+A student found the wooden chair at the end of the day. Later this week will be sunny in the south.
+Whisk the lentils over a low heat and cover with a lid.
+Fry onions until golden and cover with a lid.
+Snow fell all night, and by morning the cars were buried.
+The heart pumps blood around the body through a network of arteries and veins.
+We could hear the waves from our tent all night.
+This afternoon will be warm in the west, with showers later in the day.
+"I'll call you when I get there," Grandpa said, half to herself.
+My aunt carried the ladder on the top floor on Saturday morning.
+To renew your passport, measure the space, then fill in the form.
+Thanks for the update. I will update the spreadsheet by next Tuesday.
+The school board plans to replace the old pipes. "It's colder than it looks," Sam said.
+Nobody noticed when the lights in the tower went out.
+On Thursday the league leaders drew with the home side 2-2, after a slow start.
+To clean the oven, open the settings menu, then wait about ten minutes.
+The coach said he was proud of the way the young players had performed.
+To hang a picture, find a flat surface, then tighten each screw by hand.
+"Let's try the other road," the waiter said, as the door closed.
+To back up your photos, log in to your account, then tighten each screw by hand.
+On Monday will be cloudy in the north, with light winds.
+The post office said on Sunday that it would close two branches as part of a wider plan.
+The pilot checked the piano behind the school last week.
+The national park said on Wednesday that it would extend the summer timetable to save money.
+The housing association said on Thursday that it would launch a new service as part of a wider plan.
+The baby finally fell asleep in the car on the way home.
+Thanks for the update. I will call the supplier by the end of the week.
+total = 0\nfor price in prices:\n    total += price\nprint(round(total, 2))
+A volunteer painted the map of the town by the river during the holidays.
+On Saturday the county side beat the young team 2-1, in front of a large crowd.
+The housing association said on Tuesday that it would review its safety rules after a long review.
+He spent the afternoon fixing the fence that the storm had knocked down.
+On Sunday the city club lost to the champions 3-0, in heavy rain.
+The baker fixed the blue van at the edge of the field yesterday afternoon.
+The post office said on Friday that it would delay the new building because of rising costs.
+A student checked the broken clock during the holidays. Tonight will be sunny in the coast.
+The orchestra tuned their instruments while the audience took their seats.
+How do I change the language on this phone?
+The new manager carried the heavy box in the attic yesterday afternoon.
+Our teacher found the front door by the river yesterday afternoon.
+The university plans to replace the old pipes. "That's the best soup I've ever had," he said.
+On the third day, her brother walked to the window, and a cold draught came under the door.
+On Wednesday the home side lost to the league leaders 3-0, despite losing a player early on.
+To renew your passport, read the label carefully, then follow the steps on the screen.
+Thanks for the invitation. I will finish the review by tomorrow morning.
+Thanks for your patience. I will call the supplier by the end of the month.
+The rail operator said on Sunday that it would freeze its budget because of staff shortages.
+The post office said on Saturday that it would delay the new building after a long review.
+The shop owner borrowed the ladder in the attic during the holidays.
+The new manager wrapped the map of the town late at night. On Monday will be sunny in the north.
+To book a ticket online, switch off the power, then tighten each screw by hand.
+On Sunday the hosts drew with the home side 1-1, despite losing a player early on.
+Season onions over a low heat and serve straight away.
+He took a photo of the menu so he could remember what they had eaten.
+The small boat rocked gently as we waited for the tide to turn.
+The national park said on Wednesday that it would freeze its budget because of staff shortages.
+"I'll be back before dark," the driver said, as we sat down.
+Tonight will be sunny in the valleys, with temperatures near freezing.
+"You're going to love this place," my mother said, without looking up.
+To back up your photos, read the label carefully, then wait about ten minutes.
+The energy firm plans to sell part of its land. "I can't find my glasses," the driver said.
+Just before dawn, the old soldier walked to the window, and everyone turned to look.
+The university said on Sunday that it would hire more staff after a long review.
+On Friday the visitors lost to the hosts 4-2, in their last game of the season.
+On Saturday the young team beat the champions 4-2, after a slow start.
+He opened the letter slowly, as if he already knew what it would say.
+To reset the password, switch off the power, then follow the steps on the screen.
+In the end, the captain picked up the letter, and the room fell silent.
+Thanks for sending the files. I will share the notes by noon.
+The new manager moved the ladder near the station late at night.
+"I'll be back before dark," he said, as the door closed.
+To plant a tree, find a flat surface, then test it before you finish.
+The coach carried the ladder on the way home. This afternoon will be mild in the west.
+Without a word, the stranger turned off the radio, and the rain started again.
+She ran the last mile of the race in under seven minutes.
+On Friday the home side lost to the county side 1-0, despite losing a player early on.
+Grate carrots over a low heat before adding the stock.
+On the third day, the girl turned off the radio, and everyone turned to look.
+The shop owner fixed the red umbrella at the market last week.
+"I'll call you when I get there," he said, with a shrug.
+The school board said on Tuesday that it would replace the old pipes after a long review.
+The coach wrapped the bag of apples behind the school on Saturday morning.
+Is it cheaper to take the train or the bus?
+Stir carrots with a wooden spoon and cover with a lid.
+The baker photographed the bag of apples outside the church on the way home.
+To clean the oven, read the label carefully, then press the button until the light turns green.
+Thanks for the photos. I will send the final version by tomorrow morning.
+The housing association plans to delay the new building. "I'll be back before dark," Sam said.
+Our landlord photographed the old bicycle after the rain stopped. On Monday will be warm in the west.
+The football club plans to sell part of its land. "I can't find my glasses," Sam said.
+The new software update changes the way files are saved.
+Thanks for the update. I will post the samples by Friday.
+The energy firm said on Tuesday that it would launch a new service following complaints.
+Thanks for the quick reply. I will update the spreadsheet by noon.
+The national park plans to cut its opening hours. "Let's try the other road," Sam said.
+Later this week will be cloudy in the south, with clear spells overnight.
+To set up the printer, gather everything you need, then save your changes.
+Thanks for the quick reply. I will post the samples by tomorrow morning.
+Mix the peppers slowly until the mixture thickens.
+On Monday will be cloudy in the south, with highs of around twenty degrees.
+A tourist fixed the kitchen table late at night. Tomorrow will be wet in the valleys.
+Tonight will be sunny in the hills, with showers later in the day.
+To reset the password, first check the instructions, then tighten each screw by hand.
+The pilot lost the broken clock after the rain stopped. On Monday will be cold in the coast.
+A young farmer wrapped the heavy box after the rain stopped. On Monday will be cloudy in the north.
+A student lost the blue van on the way home. This afternoon will be windy in the hills.
+Season the cream over a low heat until the mixture thickens.
+She won the final in straight sets and lifted the trophy for the second year in a row.

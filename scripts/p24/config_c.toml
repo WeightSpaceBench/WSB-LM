@@ -1,0 +1,34 @@
+model = "gpt-6.2-astra"
+model_reasoning_effort = "high"
+model_instructions_file = "SYSTEM_PROMPT_FILE"  # the probe pointed this at a scratch file holding the system prompt
+include_permissions_instructions = false
+include_apps_instructions = false
+include_collaboration_mode_instructions = false
+include_environment_context = false
+web_search = "disabled"
+project_doc_max_bytes = 0
+
+
+
+[skills]
+include_instructions = false
+[features]
+shell_tool = false
+unified_exec = false
+apps = false
+plugins = false
+memories = false
+hooks = false
+multi_agent = false
+multi_agent_v2 = false
+browser_use = false
+browser_use_external = false
+computer_use = false
+image_generation = false
+sleep_tool = false
+tool_suggest = false
+skill_search = false
+goals = false
+in_app_browser = false
+code_mode_host = false
+skill_mcp_dependency_install = false

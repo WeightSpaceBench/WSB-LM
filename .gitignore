@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+runs/
+notes/
+PLAN*.md
+.pytest_cache/
