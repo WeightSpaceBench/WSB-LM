@@ -9,6 +9,7 @@ from __future__ import annotations
 import json
 import os
 import re
+import shutil
 import subprocess
 import tempfile
 import threading
@@ -472,8 +473,11 @@ class ClaudeCLIClient:
             f.write_text(scrub(raw))
 
 
-CODEX_EXE = "/Applications/ChatGPT.app/Contents/Resources/codex-cli/bin/codex"
-CODEX_HOME = Path.home() / ".codex-wspb"
+# WSPB_CODEX_EXE and WSPB_CODEX_HOME move these: on Linux the executable is `codex` on the PATH
+CODEX_EXE = os.environ.get("WSPB_CODEX_EXE") or next(
+    (x for x in ("/Applications/ChatGPT.app/Contents/Resources/codex-cli/bin/codex", shutil.which("codex")) if x and Path(x).exists()),
+    "codex")
+CODEX_HOME = Path(os.environ.get("WSPB_CODEX_HOME") or Path.home() / ".codex-wspb")
 # The subject's own Codex home (signed in by the owner; the client never reads its credentials) gets this config.
 # Checked live on 0.169.0-alpha.11.1: the model sees our system prompt as its instructions, our messages, and one
 # declared tool, request_user_input, which fails in exec mode ("unavailable in Default mode"). Multi-agent, code
