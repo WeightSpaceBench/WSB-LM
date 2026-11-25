@@ -581,6 +581,8 @@ class CodexCLIClient:
             st = self._run(["login", "status"], timeout=120)
             if "Logged in using ChatGPT" not in st.stdout + st.stderr:
                 raise BillingError(f"the Codex home is not on the ChatGPT sign-in: {scrub_codex(st.stdout + st.stderr)[-200:]}")
+            # the config a previous run wrote points Codex at a catalog of that run's model alone: list without it
+            (self.home / "config.toml").unlink(missing_ok=True)
             models = json.loads(self._run(["debug", "models"], timeout=120).stdout)["models"]
             entry = [{**m, **CODEX_CATALOG_OFF} for m in models if m.get("slug") == self.requested]
             if not entry:
