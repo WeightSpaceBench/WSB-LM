@@ -478,6 +478,8 @@ CODEX_EXE = os.environ.get("WSPB_CODEX_EXE") or next(
     (x for x in ("/Applications/ChatGPT.app/Contents/Resources/codex-cli/bin/codex", shutil.which("codex")) if x and Path(x).exists()),
     "codex")
 CODEX_HOME = Path(os.environ.get("WSPB_CODEX_HOME") or Path.home() / ".codex-wspb")
+# WSPB_CODEX_TIER asks Codex for a speed tier ("fast"); it changes the serving speed and the plan usage, and is recorded
+CODEX_TIER = os.environ.get("WSPB_CODEX_TIER") or None
 # The subject's own Codex home (signed in by the owner; the client never reads its credentials) gets this config.
 # Checked live on 0.169.0-alpha.11.1: the model sees our system prompt as its instructions, our messages, and one
 # declared tool, request_user_input, which fails in exec mode ("unavailable in Default mode"). Multi-agent, code
@@ -568,8 +570,9 @@ class CodexCLIClient:
                               cwd=kw.pop("cwd", "/tmp"), **kw)
 
     def _flags(self, system_file: str) -> list[str]:
+        tier = ["-c", f"service_tier={json.dumps(CODEX_TIER)}"] if CODEX_TIER else []
         return ["-m", self.requested, "-c", f"model_reasoning_effort={json.dumps(self.effort)}",
-                "-c", f"model_instructions_file={json.dumps(system_file)}"]
+                "-c", f"model_instructions_file={json.dumps(system_file)}", *tier]
 
     def _check(self) -> None:
         with self._lock:
@@ -588,7 +591,7 @@ class CodexCLIClient:
             v = self._run(["--version"], timeout=60)
             self.info = {"host": v.stdout.strip(), "auth": "chatgpt", "home": str(self.home), "config": CODEX_CONFIG,
                          "catalog_changes": CODEX_CATALOG_OFF, "env": sorted(self._env()), "effort": self.effort,
-                         "max_tokens": self.max_tokens, "max_tokens_applied": False}
+                         "max_tokens": self.max_tokens, "max_tokens_applied": False, "service_tier": CODEX_TIER}
 
     def _state(self, system: str, messages: list[dict[str, str]]) -> dict[str, Any]:
         s = getattr(self._local, "s", None)
