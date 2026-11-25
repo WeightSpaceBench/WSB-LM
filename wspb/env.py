@@ -18,7 +18,7 @@ from pathlib import Path
 from typing import Any
 
 from . import sandbox
-from .harness.agent import _read_workspace, _safe_path, first_message, parse, system_prompt
+from .harness.agent import _read_workspace, _safe_path, first_message, parse, system_prompt, write_text
 from .spec import Task
 
 
@@ -53,8 +53,7 @@ class WSPEnv:
                 self.cpu += r.cpu_seconds
                 obs = r.output or "(no output)"
             elif kind == "write" and (p := _safe_path(self.ws, str(act.get("path", "")))) and p.suffix in (".json", ".txt", ".md"):
-                p.write_text(str(act.get("content", "")))
-                obs = f"wrote {p.name}"
+                obs = write_text(p, act.get("content", ""))
             elif kind == "evaluate" and self.task.practice and self.evals < c.evals:
                 self.evals += 1
                 r = self.task.practice(_read_workspace(self.ws))

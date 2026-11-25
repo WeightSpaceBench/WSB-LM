@@ -66,7 +66,8 @@ def _summary(rows: list[dict]) -> dict:
 
 
 def _run(args) -> int:
-    from .harness.agent import run
+    from . import rules
+    from .harness.agent import RULE, run
     from .harness.audit import audit, notes
     from .harness.clients import InfraError, make_client, scrub
     from .report import cell, climbed, is_open, level
@@ -103,7 +104,7 @@ def _run(args) -> int:
                "notes": notes(ep.log), "wall_s": round(time.monotonic() - t0, 1),
                # the model as the provider reported it on each call, beside the one asked for
                "model": sorted({e["call"]["model"] for e in ep.log if "call" in e}) or [client.model],
-               "client": client.model, "mode": mode,
+               "client": client.model, "mode": mode, "rule": rules.of(t.info) or RULE,
                **({"mode_flags": modes.flags(ep.log)} if mode == "weights" else {})}
         # the statement as the run saw it: the judge audit reads the transcript against it
         (out / f"{t.id}.run{k}.json").write_text(scrub(json.dumps(
