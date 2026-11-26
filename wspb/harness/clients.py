@@ -480,6 +480,8 @@ CODEX_EXE = os.environ.get("WSPB_CODEX_EXE") or next(
 CODEX_HOME = Path(os.environ.get("WSPB_CODEX_HOME") or Path.home() / ".codex-wspb")
 # WSPB_CODEX_TIER asks Codex for a speed tier ("fast"); it changes the serving speed and the plan usage, and is recorded
 CODEX_TIER = os.environ.get("WSPB_CODEX_TIER") or None
+# WSPB_CODEX_TOGETHER names other models (comma-separated) whose runs share the home at the same time
+CODEX_TOGETHER = [x for x in (os.environ.get("WSPB_CODEX_TOGETHER") or "").split(",") if x]
 # The subject's own Codex home (signed in by the owner; the client never reads its credentials) gets this config.
 # Checked live on 0.169.0-alpha.11.1: the model sees our system prompt as its instructions, our messages, and one
 # declared tool, request_user_input, which fails in exec mode ("unavailable in Default mode"). Multi-agent, code
@@ -548,7 +550,7 @@ class CodexCLIClient:
     max_tokens is recorded, not applied."""
 
     def __init__(self, model: str, *, effort: str | None = EFFORT, max_tokens: int = MAX_TOKENS, exe: str | None = None,
-                 home: str | Path | None = None, attempts: int = 5, backoff_s: float = 30.0, timeout_s: float = 3600.0,
+                 home: str | Path | None = None, attempts: int = 5, backoff_s: float = 5.0, timeout_s: float = 3600.0,
                  limit_wait_s: float = 300.0, limit_for_s: float = 3 * 3600.0):
         self.requested, self.model = model, f"codex-cli:{model}"
         self.effort, self.max_tokens = effort or "high", max_tokens
@@ -581,15 +583,22 @@ class CodexCLIClient:
             st = self._run(["login", "status"], timeout=120)
             if "Logged in using ChatGPT" not in st.stdout + st.stderr:
                 raise BillingError(f"the Codex home is not on the ChatGPT sign-in: {scrub_codex(st.stdout + st.stderr)[-200:]}")
-            # the config a previous run wrote points Codex at a catalog of that run's model alone: list without it
-            (self.home / "config.toml").unlink(missing_ok=True)
-            models = json.loads(self._run(["debug", "models"], timeout=120).stdout)["models"]
-            entry = [{**m, **CODEX_CATALOG_OFF} for m in models if m.get("slug") == self.requested]
-            if not entry:
-                raise BillingError(f"Codex lists no model {self.requested}")
-            catalog = self.home / "wspb_models.json"
-            catalog.write_text(json.dumps({"models": entry}))
-            (self.home / "config.toml").write_text(CODEX_CONFIG.replace("{catalog}", str(catalog)))
+            # The home's catalog holds this model's entry, and those of WSPB_CODEX_TOGETHER so that runs of several
+            # models can share the home at once. A catalog that already has this model is left alone; otherwise it
+            # is listed afresh, without the config a previous run wrote (that points Codex at the old catalog).
+            catalog, config = self.home / "wspb_models.json", self.home / "config.toml"
+            try:
+                have = {m.get("slug") for m in json.loads(catalog.read_text())["models"]} if config.exists() else set()
+            except (OSError, ValueError, KeyError):
+                have = set()
+            if self.requested not in have:
+                config.unlink(missing_ok=True)
+                models = json.loads(self._run(["debug", "models"], timeout=120).stdout)["models"]
+                entry = [{**m, **CODEX_CATALOG_OFF} for m in models if m.get("slug") in {self.requested, *CODEX_TOGETHER}]
+                if self.requested not in {m["slug"] for m in entry}:
+                    raise BillingError(f"Codex lists no model {self.requested}")
+                catalog.write_text(json.dumps({"models": entry}))
+                config.write_text(CODEX_CONFIG.replace("{catalog}", str(catalog)))
             v = self._run(["--version"], timeout=60)
             self.info = {"host": v.stdout.strip(), "auth": "chatgpt", "home": str(self.home), "config": CODEX_CONFIG,
                          "catalog_changes": CODEX_CATALOG_OFF, "env": sorted(self._env()), "effort": self.effort,
@@ -638,7 +647,10 @@ class CodexCLIClient:
                     text = "".join(b.get("text", "") for b in p.get("content") or [])
                     if p["role"] == "user":
                         out["calls"] = 0
-                    out["turns"].append({"role": p["role"], "content": text})
+                    if p["role"] == "assistant" and out["turns"] and out["turns"][-1]["role"] == "assistant":
+                        out["turns"][-1]["content"] += text      # one reply sent as several messages: read as one
+                    else:
+                        out["turns"].append({"role": p["role"], "content": text})
                 elif kind in ("function_call", "custom_tool_call", "local_shell_call", "web_search_call"):
                     out["calls"] += 1
         return out
